@@ -2,6 +2,36 @@
 
 A curated, searchable Obsidian vault of **143 essays** by [Justin Scott](https://cypherj.substack.com) — organized by theme, tagged for cross-cutting discovery, and cross-linked around his recurring conceptual frameworks.
 
+## Getting Started
+
+### 1. Install Obsidian
+
+Download and install [Obsidian](https://obsidian.md) for your platform (macOS, Windows, or Linux). It's free for personal use.
+
+### 2. Clone this repository
+
+Open a terminal and run:
+
+```bash
+git clone https://github.com/NatoDoyle/cypherj-knowledge-base.git
+```
+
+If you don't have `git` installed:
+- **macOS** — open Terminal and run `xcode-select --install`
+- **Windows** — download from [git-scm.com](https://git-scm.com/downloads)
+- **Linux** — run `sudo apt install git` (Debian/Ubuntu) or `sudo dnf install git` (Fedora)
+
+Alternatively, download the ZIP from the [GitHub repo page](https://github.com/NatoDoyle/cypherj-knowledge-base) by clicking **Code > Download ZIP**, then unzip it.
+
+### 3. Open the vault in Obsidian
+
+1. Launch Obsidian
+2. Click **Open folder as vault**
+3. Navigate to the `cypherj-knowledge-base` folder you just cloned/unzipped
+4. Select it and click **Open**
+
+The vault will load with all folders, tags, and links ready to go. Start with any of the MOC pages in `_Meta/` to browse by theme, or use `Ctrl/Cmd + O` to quick-switch to any essay by title.
+
 ## Structure
 
 ```
