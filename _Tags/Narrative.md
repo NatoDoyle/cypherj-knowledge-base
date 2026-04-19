@@ -9,8 +9,9 @@ tag: "narrative"
 
 For Scott, narrative is not storytelling — it is the primary battlefield of power. His concept of "narrative warfare" holds that whoever writes the story first controls reality: movements die not when they are defeated but when they are branded before they can brand themselves. He identifies specific mechanisms of narrative control: the "already gone" frame that makes political losses feel like pre-existing conditions, the media vacuum that starves cities like Memphis of witnesses so wounds never become news, and the weaponization of language itself — words like "illegal" that convert personhood into a filing-system error. In "The Profit Limit Pattern," he argues that capitalism assigns each demographic a narrative commodity (pain for Black people, exoticism for Latinos, achievement for Asians) and permits visibility only to the degree a group's wound can be packaged and sold. Crossing that profit limit triggers suppression disguised as market logic. Scott's consistent prescription is to pre-label state responses, own the frame before media assigns one, and document with precision — on paper, with names and dates, because ink outlasts algorithms.
 
-## Essays (44)
+## Essays (45)
 
+- [[2026-04-16_self-consciousness-the-mirror-system|Self-Consciousness: The Mirror System & Mirror Disaster]] — The mind's mirror became the interface; most self-reflection is the loop maintaining itself, and more introspection deepens the trap.
 - [[2026-03-09_the-obsession-with-who-women-choose|The Obsession With Who Women Choose]] — Attraction responds to vitality, not moral merit; studying outcomes builds the wrong model.
 - [[2026-03-05_sexualization-is-capitalism|Sexualization Is Capitalism]] — Sexualization applies market logic to bodies, destroying the mystery that real eroticism requires.
 - [[2026-03-03_were-at-war-with-iran|We're At War With Iran]] — The Iran war's greatest domestic threat is narrative compression that simplifies public consent.

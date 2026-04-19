@@ -9,8 +9,17 @@ tag: "identity"
 
 Scott's writing on identity revolves around his concept of self-erasure: the gradual, rewarded disappearance of the self until the question "Who am I?" stops feeling relevant. He distinguishes this sharply from insecurity or low self-esteem — self-erasure is when there is no self left to evaluate, because it was optimized away through fitting, translating, and arriving smaller. A central framework contrasts "Am I?" with "I Am" — the former being an endless internal courtroom that folds inward, delaying existence while seeking permission to arrive, and the latter being a declaration of presence that requires no authorization. For men specifically, he argues the mirror functions as a performance review, asking "Are you operational?" rather than reflecting a person. Scott insists that identity is not found through self-analysis or self-improvement but through inhabiting your own presence without asking if you are allowed to be there. The collapse of meaning, in his view, is not nihilism but the clearing away of false roles, revealing the raw fact of awareness itself — not the mask, not the exile, but the seeing.
 
-## Essays (51)
+## Essays (60)
 
+- [[2026-04-16_self-consciousness-the-mirror-system|Self-Consciousness: The Mirror System & Mirror Disaster]] — The mind's mirror became the interface; most self-reflection is the loop maintaining itself, and more introspection deepens the trap.
+- [[2026-04-13_women-are-confusing|Women Are "Confusing"]] — What men read as flirting is often women managing consequence; flirting from self differs cleanly from flirting from survival.
+- [[2026-04-09_the-performative-woman|The Performative Woman]] — Femininity became a social legibility gate; women carry a distortion field so the world can keep recognizing them without changing.
+- [[2026-04-05_the-performative-man|The Performative Man]] — Even a man's refined goodness can be performance; you can't optimize your way out of authoring yourself in real time.
+- [[2026-04-02_beyond-attachment|Beyond "Attachment"]] — Attachment styles mask dependency; what's lost when they leave is the stable self that only existed in their presence.
+- [[2026-03-30_the-illusion-of-self-worth|The Illusion of "Self-Worth"]] — 'Self-worth' is self-surveillance rebranded; worth cannot be calculated because you are not a measurement.
+- [[2026-03-29_what-is-cheating-and-no-it-doesnt|What is "Cheating?" & No It Doesn't Start With Sex]] — Cheating begins when someone stays past their truth, not when they touch someone else.
+- [[2026-03-27_the-illusion-of-the-honeymoon-phase|The Illusion of the Honeymoon Phase]] — The honeymoon phase is managed performance; unbuffered intimacy is what real love requires.
+- [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — Abandonment-wounded parents turn children into anchors, teaching them to erase themselves to prevent departure.
 - [[2026-03-09_the-obsession-with-who-women-choose|The Obsession With Who Women Choose]] — Attraction responds to vitality, not moral merit; studying outcomes builds the wrong model.
 - [[2026-03-08_the-good-man-no-one-wantsyet|The Good Man No One Wants(Yet)]] — Good men struggle romantically because they suppress vitality in favor of reliability.
 - [[2026-02-21_the-insecure-man|The Insecure Man]] — Male insecurity persists because men are taught worth is earned, making rest feel dangerous.

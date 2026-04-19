@@ -7,10 +7,11 @@ theme: "Frameworks"
 
 The theoretical backbone: essays that define Justin's conceptual frameworks and analytical systems.
 
-**9 essays**
+**10 essays**
 
 ## Essays
 
+- [[2026-04-16_self-consciousness-the-mirror-system|Self-Consciousness: The Mirror System & Mirror Disaster]] — The mind's mirror became the interface; most self-reflection is the loop maintaining itself, and more introspection deepens the trap.
 - [[2026-02-04_the-world-crisis|The World Crisis]] — Civilization is a replacement engine converting humanity into function via a substrate-agnostic throughput attractor.
 - [[2026-01-18_the-lie-of-consensus-reality|The Lie of Consensus Reality]] — Consensus reality is coordinated rendering mistaken for objective truth; only awareness and patterns exist.
 - [[2026-01-07_self-erasure|Self-Erasure]] — Self-erasure is the adaptive disappearance of identity when survival replaces presence.

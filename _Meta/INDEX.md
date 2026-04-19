@@ -1,12 +1,21 @@
 # Knowledge Base Index
 **Source:** Justin Scott — cypherj.substack.com
-**Total posts:** 143
-**Scraped on:** 2026-03-25
+**Total posts:** 152
+**Scraped on:** 2026-04-19
 
 ---
 
 ## Posts
 
+- [Self-Consciousness: The Mirror System & Mirror Disaster](../Frameworks/2026-04-16_self-consciousness-the-mirror-system.md) (2026-04-16)
+- [Women Are "Confusing"](../Relationships/2026-04-13_women-are-confusing.md) (2026-04-13)
+- [The Performative Woman](../Psychology/2026-04-09_the-performative-woman.md) (2026-04-09)
+- [The Performative Man](../Psychology/2026-04-05_the-performative-man.md) (2026-04-05)
+- [Beyond "Attachment"](../Relationships/2026-04-02_beyond-attachment.md) (2026-04-02)
+- [The Illusion of "Self-Worth"](../Psychology/2026-03-30_the-illusion-of-self-worth.md) (2026-03-30)
+- [What is "Cheating?" & No It Doesn't Start With Sex](../Relationships/2026-03-29_what-is-cheating-and-no-it-doesnt.md) (2026-03-29)
+- [The Illusion of the Honeymoon Phase](../Relationships/2026-03-27_the-illusion-of-the-honeymoon-phase.md) (2026-03-27)
+- [Parenting From Abandonment](../Psychology/2026-03-26_parenting-from-abandonment.md) (2026-03-26)
 - [The Mechanism of Terror](../Psychology/2026-03-24_the-mechanism-of-terror.md) (2026-03-24)
 - [Boundaries Don't Protect You](../Psychology/2026-03-19_boundaries-dont-protect-you.md) (2026-03-19)
 - [Dating From Abandonment](../Relationships/2026-03-15_dating-from-abandonment.md) (2026-03-15)

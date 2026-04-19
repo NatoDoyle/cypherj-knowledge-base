@@ -14,6 +14,15 @@ Self-Erasure is Justin Scott's term for **the adaptive disappearance of identity
 
 ## Essays Referencing This Concept
 
+- [[2026-04-16_self-consciousness-the-mirror-system|Self-Consciousness: The Mirror System & Mirror Disaster]] — the self-model replaces the self; the mirror becomes the interface
+- [[2026-04-13_women-are-confusing|Women Are "Confusing"]] — compressing into legible femininity for fast recognition — erasure to stay safe
+- [[2026-04-09_the-performative-woman|The Performative Woman]] — sanding yourself down for public use; pre-translation as erasure
+- [[2026-04-05_the-performative-man|The Performative Man]] — performing even evolved goodness as erasure of the un-managed self
+- [[2026-04-02_beyond-attachment|Beyond "Attachment"]] — losing access to the self that only existed around them
+- [[2026-03-30_the-illusion-of-self-worth|The Illusion of "Self-Worth"]] — self-worth as self-surveillance, monitoring replacing presence
+- [[2026-03-29_what-is-cheating-and-no-it-doesnt|What is "Cheating?"]] — staying past your truth as erasure of the other's reality
+- [[2026-03-27_the-illusion-of-the-honeymoon-phase|The Illusion of the Honeymoon Phase]] — performing love as erasure of the unfiltered self
+- [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — children erase themselves to anchor abandonment-wounded parents
 - [[2026-03-19_boundaries-dont-protect-you|Boundaries Don't Protect You]] — boundaries as selfhood rebuilding after erasure
 - [[2026-02-26_relationship-management-kills-intimacy|Relationship Management Kills Intimacy]] — over-managing as erasure
 - [[2026-02-01_clarity-isnt-gentle|Clarity Isn't Gentle]] — clarity exposing self-silencing

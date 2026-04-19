@@ -7,10 +7,14 @@ theme: "Relationships"
 
 Essays on dating, intimacy, love, romantic dynamics, and the trauma patterns that shape how we connect.
 
-**29 essays**
+**33 essays**
 
 ## Essays
 
+- [[2026-04-13_women-are-confusing|Women Are "Confusing"]] — What men read as flirting is often women managing consequence; flirting from self differs cleanly from flirting from survival.
+- [[2026-04-02_beyond-attachment|Beyond "Attachment"]] — Attachment styles mask dependency; what's lost when they leave is the stable self that only existed in their presence.
+- [[2026-03-29_what-is-cheating-and-no-it-doesnt|What is "Cheating?" & No It Doesn't Start With Sex]] — Cheating begins when someone stays past their truth, not when they touch someone else.
+- [[2026-03-27_the-illusion-of-the-honeymoon-phase|The Illusion of the Honeymoon Phase]] — The honeymoon phase is managed performance; unbuffered intimacy is what real love requires.
 - [[2026-03-15_dating-from-abandonment|Dating From Abandonment]] — Abandonment wounds turn dating into solving unfinished emotional equations from the past.
 - [[2026-03-12_the-illusion-of-options|The Illusion of "Options"]] — Romantic 'options' are an illusion; real connection comes from rare recognition, not abundance.
 - [[2026-03-09_the-obsession-with-who-women-choose|The Obsession With Who Women Choose]] — Attraction responds to vitality, not moral merit; studying outcomes builds the wrong model.

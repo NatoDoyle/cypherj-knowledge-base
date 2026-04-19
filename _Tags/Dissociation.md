@@ -9,8 +9,13 @@ tag: "dissociation"
 
 In Scott's framework, dissociation is not a clinical edge case but the default operating system of modern life. He defines it as the moment the nervous system learned to pull a person out of reality because presence once meant danger — and then never brought them back. What most people call "love" is often a dissociative universe where they finally felt real; what they call "settling" is socially approved dissociation; what they call "faith" is frequently belief functioning as protective distance from actual contact. Across these essays, Scott consistently argues that emotional numbness masquerades as stability, that composure often masks evacuation, and that phrases like "I'm fine" or "protecting my peace" signal absence rather than health. Even inherited urgency — the charge Black bodies carry from generations of denied rest — is a dissociative residue, the nervous system rehearsing danger long after the threat has passed. The path back is not comfort but re-entry: learning to inhabit the body, tolerate presence, and stop renting identity from external sources. Recovery, he insists, is not relaxation — it is "grief with its gloves off."
 
-## Essays (25)
+## Essays (30)
 
+- [[2026-04-16_self-consciousness-the-mirror-system|Self-Consciousness: The Mirror System & Mirror Disaster]] — The mind's mirror became the interface; most self-reflection is the loop maintaining itself, and more introspection deepens the trap.
+- [[2026-04-09_the-performative-woman|The Performative Woman]] — Femininity became a social legibility gate; women carry a distortion field so the world can keep recognizing them without changing.
+- [[2026-04-05_the-performative-man|The Performative Man]] — Even a man's refined goodness can be performance; you can't optimize your way out of authoring yourself in real time.
+- [[2026-04-02_beyond-attachment|Beyond "Attachment"]] — Attachment styles mask dependency; what's lost when they leave is the stable self that only existed in their presence.
+- [[2026-03-30_the-illusion-of-self-worth|The Illusion of "Self-Worth"]] — 'Self-worth' is self-surveillance rebranded; worth cannot be calculated because you are not a measurement.
 - [[2026-03-24_the-mechanism-of-terror|The Mechanism of Terror]] — Terror is a collapsed interpretive system that assigns one meaning to every signal.
 - [[2026-03-19_boundaries-dont-protect-you|Boundaries Don't Protect You]] — Boundaries reveal alignment rather than prevent harm, rebuilding selfhood lost in childhood.
 - [[2026-02-01_clarity-isnt-gentle|Clarity Isn't Gentle]] — Clarity exposes how you participated in your own silencing as a childhood survival strategy.

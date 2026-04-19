@@ -7,10 +7,14 @@ theme: "Psychology"
 
 Essays on trauma, healing, fear, self-patterns, emotional dynamics, and the mechanisms of dissociation.
 
-**48 essays**
+**52 essays**
 
 ## Essays
 
+- [[2026-04-09_the-performative-woman|The Performative Woman]] — Femininity became a social legibility gate; women carry a distortion field so the world can keep recognizing them without changing.
+- [[2026-04-05_the-performative-man|The Performative Man]] — Even a man's refined goodness can be performance; you can't optimize your way out of authoring yourself in real time.
+- [[2026-03-30_the-illusion-of-self-worth|The Illusion of "Self-Worth"]] — 'Self-worth' is self-surveillance rebranded; worth cannot be calculated because you are not a measurement.
+- [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — Abandonment-wounded parents turn children into anchors, teaching them to erase themselves to prevent departure.
 - [[2026-03-24_the-mechanism-of-terror|The Mechanism of Terror]] — Terror is a collapsed interpretive system that assigns one meaning to every signal.
 - [[2026-03-19_boundaries-dont-protect-you|Boundaries Don't Protect You]] — Boundaries reveal alignment rather than prevent harm, rebuilding selfhood lost in childhood.
 - [[2026-03-06_the-problem-of-good|The Problem of "Good"]] — Pursuing 'goodness' delays clarity; personality becomes a buffer against honest recognition.

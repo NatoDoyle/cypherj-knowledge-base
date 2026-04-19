@@ -15,6 +15,9 @@ Restructuring is Justin Scott's term for the **process of dismantling trauma-roo
 
 ## Essays Referencing This Concept
 
+- [[2026-04-16_self-consciousness-the-mirror-system|Self-Consciousness: The Mirror System & Mirror Disaster]] — real loosening requires contact with the present, not more introspection
+- [[2026-04-05_the-performative-man|The Performative Man]] — dropping performance as restructuring; letting the constructed man rest
+- [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — healing requires feeling abandonment without turning the child into the answer
 - [[2025-05-02_trauma-bonding-in-black-dating-culture|Trauma Bonding in Black Dating Culture]] — trauma bonding as anti-restructuring pattern
 - [[2025-06-07_she-never-got-to-unclench|She Never Got to Unclench.]] — strength-as-armor blocking restructuring
 

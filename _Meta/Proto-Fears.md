@@ -14,6 +14,10 @@ The Proto-Fears are Justin Scott's term for **eight primordial wounds** — raw,
 
 ## Essays Referencing This Concept
 
+- [[2026-04-13_women-are-confusing|Women Are "Confusing"]] — fear of consequence driving pre-translation before misreading
+- [[2026-04-02_beyond-attachment|Beyond "Attachment"]] — separation Proto-Fear wired as dependency for emotional regulation
+- [[2026-03-30_the-illusion-of-self-worth|The Illusion of "Self-Worth"]] — insufficiency Proto-Fear repackaged as self-surveillance
+- [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — separation Proto-Fear driving parents to anchor through children
 - [[2026-03-24_the-mechanism-of-terror|The Mechanism of Terror]] — terror as collapsed Proto-Fear interpretation
 - [[2026-01-08_the-fear-of-anger|The Fear Of Anger]] — anger as gateway to Proto-Fear clarity
 - [[2025-07-31_self-sabotage-the-fear-of-hope|Self-Sabotage: The Fear of Hope]] — hope as Proto-Fear trigger
