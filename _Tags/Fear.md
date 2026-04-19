@@ -9,8 +9,10 @@ tag: "fear"
 
 In Scott's framework, fear is not a single emotion but a structural mechanism — a system that learned one answer and stopped letting anything be different. He distinguishes sharply between fear and terror: fear still wonders and asks, while terror decides instantly, collapsing all inputs into one predetermined conclusion. His central argument is that what people call fear is usually a displaced grief response. The fear of anger is really fear of the clarity anger delivers. The fear of chaos is a body remembering that unpredictability once meant punishment. Self-sabotage is not fear of failure but fear of hoping while fully invested, because the nervous system remembers what happened last time belief was extended. Critically, Scott traces every adult fear back to a specific originating room — a childhood moment where ambiguity could not be tolerated and the system chose a permanent answer to survive. The path out is not reassurance but slowing down the speed of interpretation, allowing a moment to stay open long enough for a second meaning to appear rather than automatically applying the old conclusion.
 
-## Essays (36)
+## Essays (38)
 
+- [[2026-03-27_the-illusion-of-the-honeymoon-phase|The Illusion of the Honeymoon Phase]] — The honeymoon phase is managed performance; unbuffered intimacy is what real love requires.
+- [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — Abandonment-wounded parents turn children into anchors, teaching them to erase themselves to prevent departure.
 - [[2026-03-24_the-mechanism-of-terror|The Mechanism of Terror]] — Terror is a collapsed interpretive system that assigns one meaning to every signal.
 - [[2026-03-15_dating-from-abandonment|Dating From Abandonment]] — Abandonment wounds turn dating into solving unfinished emotional equations from the past.
 - [[2026-03-08_the-good-man-no-one-wantsyet|The Good Man No One Wants(Yet)]] — Good men struggle romantically because they suppress vitality in favor of reliability.

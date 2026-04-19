@@ -9,8 +9,13 @@ tag: "relationships"
 
 Scott's relationship writing centers on a single thesis: intimacy requires the unedited self, and every strategy designed to protect the relationship is actually killing it. His concept of "relationship management" describes people who run nineteen imaginary conversations for every real one, editing themselves through four drafts before speaking — and he names this not as emotional intelligence but as self-erasure in real time. Testing a partner is "fear with a clipboard," turning love into surveillance where nobody can relax. Dating from abandonment means using each new partner as an attempt to solve an old equation rather than discovering whether two lives actually belong together. A key framework is that intimacy requires aftermath — being altered by contact, staying after the moment is over — and that modern vulnerability has become performative, a sharing that costs nothing. Repeatedly, Scott argues that relationships fail not from poor communication but from perfect communication deployed to survive the conversation rather than reveal the person. The rare relationships that work begin when reality enters the room without supervision.
 
-## Essays (40)
+## Essays (45)
 
+- [[2026-04-13_women-are-confusing|Women Are "Confusing"]] — What men read as flirting is often women managing consequence; flirting from self differs cleanly from flirting from survival.
+- [[2026-04-02_beyond-attachment|Beyond "Attachment"]] — Attachment styles mask dependency; what's lost when they leave is the stable self that only existed in their presence.
+- [[2026-03-29_what-is-cheating-and-no-it-doesnt|What is "Cheating?" & No It Doesn't Start With Sex]] — Cheating begins when someone stays past their truth, not when they touch someone else.
+- [[2026-03-27_the-illusion-of-the-honeymoon-phase|The Illusion of the Honeymoon Phase]] — The honeymoon phase is managed performance; unbuffered intimacy is what real love requires.
+- [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — Abandonment-wounded parents turn children into anchors, teaching them to erase themselves to prevent departure.
 - [[2026-03-19_boundaries-dont-protect-you|Boundaries Don't Protect You]] — Boundaries reveal alignment rather than prevent harm, rebuilding selfhood lost in childhood.
 - [[2026-03-15_dating-from-abandonment|Dating From Abandonment]] — Abandonment wounds turn dating into solving unfinished emotional equations from the past.
 - [[2026-03-09_the-obsession-with-who-women-choose|The Obsession With Who Women Choose]] — Attraction responds to vitality, not moral merit; studying outcomes builds the wrong model.

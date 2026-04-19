@@ -9,8 +9,9 @@ tag: "trauma"
 
 For Justin Scott, trauma is not defined by dramatic events but by the absence of being met — the silence after you tried to share, the eye roll when you got too excited, the childhood where nothing happened because nothing real was ever acknowledged. His framework rejects the binary of "abuse vs. good childhood," insisting that being managed, recruited into emotional service, or praised for shrinking constitutes its own devastation. A recurring argument is that trauma disguises itself as competence: the family peacekeeper who shattered so others could stay intact, the professional whose discipline is really captivity, the "mature" child who simply never felt safe enough to be young. Scott consistently locates the wound not in what was done to you, but in how your selfhood was interrupted — the moment you adjusted mid-sentence, mid-feeling, mid-self to survive someone else's reaction. Trauma, in his view, does not live in memory alone; it lives in the body's learned conviction that self-expression is dangerous, and it replays every time you reach the exact edge where you once disappeared.
 
-## Essays (49)
+## Essays (50)
 
+- [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — Abandonment-wounded parents turn children into anchors, teaching them to erase themselves to prevent departure.
 - [[2026-03-24_the-mechanism-of-terror|The Mechanism of Terror]] — Terror is a collapsed interpretive system that assigns one meaning to every signal.
 - [[2026-03-19_boundaries-dont-protect-you|Boundaries Don't Protect You]] — Boundaries reveal alignment rather than prevent harm, rebuilding selfhood lost in childhood.
 - [[2026-03-15_dating-from-abandonment|Dating From Abandonment]] — Abandonment wounds turn dating into solving unfinished emotional equations from the past.

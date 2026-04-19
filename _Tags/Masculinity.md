@@ -9,8 +9,10 @@ tag: "masculinity"
 
 Scott reframes the male loneliness epidemic not as a social trend but as an identity "engineered around exile" — the consequence of boys being emotionally amputated at childhood and rewarded for having "bones only." In his analysis, masculinity did not fail men; it hollowed them out, replacing connection with competition, silence, and the "real man stands alone" lie. The collapse of brotherhood is central: without male witness, men become "unmirrored," easy to control, radicalize, and turn against women or themselves. Scott is particularly incisive on the relationship between masculinity and romantic love, arguing that men were trained to treat women as their sole emotional life-support system, then blame women when that system buckles. "Respect for men," he contends, has only ever meant obedience — and men chasing compliance are practicing "pick-me masculinity," begging for a currency that no longer holds value. His prescription is relentlessly inward: emotional literacy, the recovery of tenderness, and the recognition that safety creates romance, never the reverse.
 
-## Essays (20)
+## Essays (22)
 
+- [[2026-04-13_women-are-confusing|Women Are "Confusing"]] — What men read as flirting is often women managing consequence; flirting from self differs cleanly from flirting from survival.
+- [[2026-04-05_the-performative-man|The Performative Man]] — Even a man's refined goodness can be performance; you can't optimize your way out of authoring yourself in real time.
 - [[2026-03-09_the-obsession-with-who-women-choose|The Obsession With Who Women Choose]] — Attraction responds to vitality, not moral merit; studying outcomes builds the wrong model.
 - [[2026-03-08_the-good-man-no-one-wantsyet|The Good Man No One Wants(Yet)]] — Good men struggle romantically because they suppress vitality in favor of reliability.
 - [[2026-03-07_male-centered-modesty|Male-Centered Modesty]] — Male-centered modesty forces both sexes to hide vitality around men's imagined reactions.

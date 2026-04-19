@@ -9,8 +9,13 @@ tag: "healing"
 
 Scott positions healing not as recovery or self-improvement but as the refusal to keep performing wellness. He is sharply critical of conventional healing narratives: closure is grief bargaining for a better story, being "the bigger person" is emotional tax avoidance, and self-punishment masquerading as growth is just internalized abuse wearing your own voice. A distinctive thread is his insistence that healing requires honesty over peace — that the person who swallowed their truth to keep relationships intact was never forgiving, they were dissociating. He reframes accountability as presence rather than punishment, arguing that shame collapses the self while genuine accountability expands it. Healing in his framework is not about arriving at wholeness but about stopping specific behaviors: stop calling guilt "growth," stop calling exhaustion "discipline," stop auditioning for your own worth. The endpoint is not feeling better but leaving whole — no longer purchasing belonging with your absence. He consistently warns against confusing functional pain with progress, insisting that the real work is refusing to bleed for permission.
 
-## Essays (51)
+## Essays (56)
 
+- [[2026-04-09_the-performative-woman|The Performative Woman]] — Femininity became a social legibility gate; women carry a distortion field so the world can keep recognizing them without changing.
+- [[2026-04-05_the-performative-man|The Performative Man]] — Even a man's refined goodness can be performance; you can't optimize your way out of authoring yourself in real time.
+- [[2026-04-02_beyond-attachment|Beyond "Attachment"]] — Attachment styles mask dependency; what's lost when they leave is the stable self that only existed in their presence.
+- [[2026-03-30_the-illusion-of-self-worth|The Illusion of "Self-Worth"]] — 'Self-worth' is self-surveillance rebranded; worth cannot be calculated because you are not a measurement.
+- [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — Abandonment-wounded parents turn children into anchors, teaching them to erase themselves to prevent departure.
 - [[2026-03-19_boundaries-dont-protect-you|Boundaries Don't Protect You]] — Boundaries reveal alignment rather than prevent harm, rebuilding selfhood lost in childhood.
 - [[2026-03-15_dating-from-abandonment|Dating From Abandonment]] — Abandonment wounds turn dating into solving unfinished emotional equations from the past.
 - [[2026-02-21_the-insecure-man|The Insecure Man]] — Male insecurity persists because men are taught worth is earned, making rest feel dangerous.
