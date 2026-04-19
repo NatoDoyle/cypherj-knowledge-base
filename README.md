@@ -1,10 +1,6 @@
 # Knowledge Base
 
-A curated, searchable Obsidian vault of **152 essays** by [Justin Scott](https://cypherj.substack.com) — organized by theme, tagged for cross-cutting discovery, and cross-linked around his recurring conceptual frameworks.
-
-## Start Here
-
-New to the corpus? Read **[Justin Scott's Philosophy: A Reader's Map](_Meta/Philosophy.md)** — one synthesis of the full worldview (diagnosis, frameworks, practice) with pointers into the concept pages and defining essays.
+A curated, searchable Obsidian vault of **143 essays** by [Justin Scott](https://cypherj.substack.com) — organized by theme, tagged for cross-cutting discovery, and cross-linked around his recurring conceptual frameworks.
 
 ## Getting Started
 
@@ -40,12 +36,12 @@ The vault will load with all folders, tags, and links ready to go. Start with an
 
 ```
 knowledge_base/
-├── Psychology/           52 essays — trauma, fear, healing, emotional patterns
-├── Relationships/        33 essays — dating, intimacy, love, romantic dynamics
+├── Psychology/           48 essays — trauma, fear, healing, emotional patterns
+├── Relationships/        29 essays — dating, intimacy, love, romantic dynamics
 ├── Politics/             31 essays — government, geopolitics, rights, capitalism
 ├── Spirituality/         15 essays — Christianity, theology, faith, metaphysics
 ├── Race & Culture/       11 essays — Black identity, systemic racism, cultural critique
-├── Frameworks/           10 essays — concept-defining essays (theoretical backbone)
+├── Frameworks/            9 essays — concept-defining essays (theoretical backbone)
 ├── _Meta/                MOCs, concept pages, INDEX.md
 ├── _Tags/                15 tag pages with perspective summaries
 └── .obsidian/            vault config
@@ -114,4 +110,4 @@ concepts:
 
 ## Source
 
-All essays are by **Justin Scott**, published at [cypherj.substack.com](https://cypherj.substack.com). This vault is a personal archive for reference and study. Content spans April 2025 through April 2026.
+All essays are by **Justin Scott**, published at [cypherj.substack.com](https://cypherj.substack.com). This vault is a personal archive for reference and study. Content spans April 2025 through March 2026.
