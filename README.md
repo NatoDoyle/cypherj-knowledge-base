@@ -2,6 +2,10 @@
 
 A curated, searchable Obsidian vault of **152 essays** by [Justin Scott](https://cypherj.substack.com) — organized by theme, tagged for cross-cutting discovery, and cross-linked around his recurring conceptual frameworks.
 
+## Start Here
+
+New to the corpus? Read **[Justin Scott's Philosophy: A Reader's Map](_Meta/Philosophy.md)** — one synthesis of the full worldview (diagnosis, frameworks, practice) with pointers into the concept pages and defining essays.
+
 ## Getting Started
 
 ### 1. Install Obsidian

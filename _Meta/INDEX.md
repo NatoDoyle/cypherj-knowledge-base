@@ -2,6 +2,7 @@
 **Source:** Justin Scott — cypherj.substack.com
 **Total posts:** 152
 **Scraped on:** 2026-04-19
+**Start here:** [[Philosophy|Justin Scott's Philosophy: A Reader's Map]]
 
 ---
 
