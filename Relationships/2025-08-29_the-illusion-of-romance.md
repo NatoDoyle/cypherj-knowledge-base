@@ -1,11 +1,15 @@
 ---
 title: "The Illusion of Romance"
+aliases:
+  - "The Illusion of Romance"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-08-29
 source: "https://cypherj.substack.com/p/the-illusion-of-romance"
 word_count: 436
+summary: "Romance is empire's costume for love; real love exists outside receipts and rituals."
 primary_theme: "Relationships"
+series: "The Illusion of..."
 tags:
   - relationships
   - capitalism

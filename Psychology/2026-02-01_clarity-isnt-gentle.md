@@ -1,9 +1,12 @@
 ---
 title: "Clarity Isn't Gentle"
+aliases:
+  - "Clarity Isn't Gentle"
 author: "Justin Scott"
 date: 2026-02-01
 source: "https://cypherj.substack.com/p/clarity-isnt-gentle"
 word_count: 1033
+summary: "Clarity exposes how you participated in your own silencing as a childhood survival strategy."
 primary_theme: "Psychology"
 tags:
   - trauma

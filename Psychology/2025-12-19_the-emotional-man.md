@@ -1,10 +1,13 @@
 ---
 title: "The Emotional Man"
+aliases:
+  - "The Emotional Man"
 subtitle: "The most loved and feared man to ever exist."
 author: "Justin Scott"
 date: 2025-12-19
 source: "https://cypherj.substack.com/p/the-emotional-man"
 word_count: 642
+summary: "The emotional man is punished for honesty and trained to erase himself for survival."
 primary_theme: "Psychology"
 tags:
   - masculinity

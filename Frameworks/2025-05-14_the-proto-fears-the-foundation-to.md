@@ -1,10 +1,13 @@
 ---
 title: "THE PROTO-FEARS: The Foundation to the Parallel Systems"
+aliases:
+  - "THE PROTO-FEARS: The Foundation to the Parallel Systems"
 subtitle: "Foundational Fractures of Consciousness"
 author: "Justin Scott"
 date: 2025-05-14
 source: "https://cypherj.substack.com/p/the-proto-fears-the-foundation-to"
 word_count: 548
+summary: "Defines eight proto-fears as primal wounds that mutate into parallel survival systems."
 primary_theme: "Frameworks"
 tags:
   - fear

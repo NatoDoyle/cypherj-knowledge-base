@@ -1,10 +1,13 @@
 ---
 title: "The Venezuela Intervention"
+aliases:
+  - "The Venezuela Intervention"
 subtitle: "Narrative Warfare In Real Time"
 author: "Justin Scott"
 date: 2026-01-05
 source: "https://cypherj.substack.com/p/the-venezuela-intervention"
 word_count: 1319
+summary: "Foreign intervention is legitimized through a media auction that sells authority one headline at a time."
 primary_theme: "Politics"
 tags:
   - geopolitics

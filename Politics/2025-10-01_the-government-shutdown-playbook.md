@@ -1,10 +1,13 @@
 ---
 title: "The Government Shutdown Playbook"
+aliases:
+  - "The Government Shutdown Playbook"
 subtitle: "An Exhaustive on the True Potential Scale of the 2025 Government Shutdown"
 author: "Justin Scott"
 date: 2025-10-01
 source: "https://cypherj.substack.com/p/the-government-shutdown-playbook"
 word_count: 2901
+summary: "The government shutdown is a psychological erasure tactic targeting vulnerable communities."
 primary_theme: "Politics"
 tags:
   - politics

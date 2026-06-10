@@ -1,10 +1,13 @@
 ---
 title: "Afraid of Heaven"
+aliases:
+  - "Afraid of Heaven"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-08-18
 source: "https://cypherj.substack.com/p/afraid-of-heaven"
 word_count: 668
+summary: "Empire made you fear heaven so compliance would feel safer than belonging to God."
 primary_theme: "Spirituality"
 tags:
   - faith

@@ -1,10 +1,13 @@
 ---
 title: "Decolonize Your Christianity"
+aliases:
+  - "Decolonize Your Christianity"
 subtitle: "A Preliminary X-Ray For Detecting Spiritual Colonization"
 author: "Justin Scott"
 date: 2025-11-11
 source: "https://cypherj.substack.com/p/decolonize-your-christianity"
 word_count: 970
+summary: "Most Christians read the Bible through 29 inherited imperial layers without realizing it."
 primary_theme: "Spirituality"
 tags:
   - faith

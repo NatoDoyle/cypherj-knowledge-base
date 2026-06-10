@@ -1,10 +1,13 @@
 ---
-title: "You Don't Have A "Type""
+title: "You Don't Have A \"Type\""
+aliases:
+  - "You Don't Have A \"Type\""
 subtitle: "No you don't."
 author: "Justin Scott"
 date: 2026-03-04
 source: "https://cypherj.substack.com/p/you-dont-have-a-type"
 word_count: 411
+summary: "Having a 'type' is consumer recognition of desirability packaging, not genuine attraction."
 primary_theme: "Relationships"
 tags:
   - capitalism

@@ -1,10 +1,13 @@
 ---
 title: "You Kept The Family Together"
+aliases:
+  - "You Kept The Family Together"
 subtitle: "They Survived Because You Shattered"
 author: "Justin Scott"
 date: 2025-07-11
 source: "https://cypherj.substack.com/p/you-kept-the-family-together"
 word_count: 354
+summary: "The family survived because you absorbed all the damage in silence."
 primary_theme: "Psychology"
 tags:
   - trauma

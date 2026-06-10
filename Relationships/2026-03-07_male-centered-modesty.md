@@ -1,10 +1,13 @@
 ---
 title: "Male-Centered Modesty"
+aliases:
+  - "Male-Centered Modesty"
 subtitle: "VITALITY, MODESTY, AND THE RESTAURANT"
 author: "Justin Scott"
 date: 2026-03-07
 source: "https://cypherj.substack.com/p/male-centered-modesty"
 word_count: 1482
+summary: "Male-centered modesty forces both sexes to hide vitality around men's imagined reactions."
 primary_theme: "Relationships"
 tags:
   - masculinity

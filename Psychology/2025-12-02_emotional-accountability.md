@@ -1,10 +1,13 @@
 ---
 title: "Emotional Accountability"
+aliases:
+  - "Emotional Accountability"
 subtitle: "Beyond the Shame"
 author: "Justin Scott"
 date: 2025-12-02
 source: "https://cypherj.substack.com/p/emotional-accountability"
 word_count: 612
+summary: "Emotional accountability requires separating guilt from crime and choosing presence over shame."
 primary_theme: "Psychology"
 tags:
   - healing

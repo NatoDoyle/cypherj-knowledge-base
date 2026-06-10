@@ -1,10 +1,13 @@
 ---
 title: "Women Are The Cost Of Emotion"
+aliases:
+  - "Women Are The Cost Of Emotion"
 subtitle: "Sit With This"
 author: "Justin Scott"
 date: 2025-12-21
 source: "https://cypherj.substack.com/p/women-are-the-cost-of-emotion"
 word_count: 574
+summary: "Women became the emotional ledger-keepers because the world refused to carry its own feelings."
 primary_theme: "Psychology"
 tags:
   - femininity

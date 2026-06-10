@@ -1,10 +1,13 @@
 ---
 title: "Motivation is Not a Mood"
+aliases:
+  - "Motivation is Not a Mood"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-07-23
 source: "https://cypherj.substack.com/p/motivation-is-not-a-mood"
 word_count: 411
+summary: "Motivation isn't missing; your nervous system learned that wanting things gets punished."
 primary_theme: "Psychology"
 tags:
   - trauma

@@ -1,10 +1,13 @@
 ---
 title: "They Taught You To Fear Consequence"
+aliases:
+  - "They Taught You To Fear Consequence"
 subtitle: "The Value of Being The Cause"
 author: "Justin Scott"
 date: 2026-01-28
 source: "https://cypherj.substack.com/p/they-taught-you-to-fear-consequence"
 word_count: 559
+summary: "Consequence avoidance breeds entitlement by severing cause from effect in relationships."
 primary_theme: "Psychology"
 tags:
   - fear

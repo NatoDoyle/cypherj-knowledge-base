@@ -1,10 +1,13 @@
 ---
 title: "Trauma Bonding in Black Dating Culture"
+aliases:
+  - "Trauma Bonding in Black Dating Culture"
 subtitle: "When Love is Built on Wounds, Not Safety"
 author: "Justin Scott"
 date: 2025-05-02
 source: "https://cypherj.substack.com/p/trauma-bonding-in-black-dating-culture"
 word_count: 625
+summary: "Trauma bonding in Black dating replaces trust-based love with crisis-forged attachment."
 primary_theme: "Relationships"
 tags:
   - trauma

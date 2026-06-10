@@ -1,10 +1,13 @@
 ---
 title: "Understanding Restructuring vs Anti-Restructuring Behaviors In Black Women"
+aliases:
+  - "Understanding Restructuring vs Anti-Restructuring Behaviors In Black Women"
 subtitle: "Based on Historical Traumas"
 author: "Justin Scott"
 date: 2025-05-26
 source: "https://cypherj.substack.com/p/understanding-restructuring-vs-anti"
 word_count: 855
+summary: "Catalogs trauma-rooted anti-restructuring behaviors in Black women blocking personal growth."
 primary_theme: "Race & Culture"
 tags:
   - femininity

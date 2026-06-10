@@ -1,10 +1,13 @@
 ---
 title: "Before The Collapse Pretends To Be Your Fault"
+aliases:
+  - "Before The Collapse Pretends To Be Your Fault"
 subtitle: "A Warning Call"
 author: "Justin Scott"
 date: 2025-08-21
 source: "https://cypherj.substack.com/p/before-the-collapse-pretends-to-be"
 word_count: 632
+summary: "Systemic collapse is being rebranded as personal failure before it fully hits."
 primary_theme: "Politics"
 tags:
   - politics

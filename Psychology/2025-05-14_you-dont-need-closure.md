@@ -1,10 +1,13 @@
 ---
 title: "You Don't Need Closure."
+aliases:
+  - "You Don't Need Closure."
 subtitle: "You Need to Stop Hoping for a Softer Ending."
 author: "Justin Scott"
 date: 2025-05-14
 source: "https://cypherj.substack.com/p/you-dont-need-closure"
 word_count: 259
+summary: "Closure is grief bargaining; real healing means living forward without a tidy ending."
 primary_theme: "Psychology"
 tags:
   - healing

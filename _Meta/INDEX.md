@@ -1,13 +1,38 @@
 # Knowledge Base Index
 **Source:** Justin Scott — cypherj.substack.com
-**Total posts:** 152
-**Scraped on:** 2026-04-19
-**Start here:** [[Philosophy|Justin Scott's Philosophy: A Reader's Map]]
+**Total posts:** 176
+**Scraped on:** 2026-06-09
+**Start here:** [[Philosophy|Justin Scott's Philosophy: A Reader's Map]] · [[Reading Paths]]
+**Study:** [[Glossary]] · [[Timeline]] · [[Series]] · [[Essays.base|Essays database]]
 
 ---
 
 ## Posts
 
+- [Stop Trying To Understand Your Partner](../Relationships/2026-06-08_stop-trying-to-understand-your-partner.md) (2026-06-08)
+- [Conditional Manhood](../Psychology/2026-06-06_conditional-manhood.md) (2026-06-06)
+- [The Fear of Uncertainty](../Psychology/2026-06-06_the-fear-of-uncertainty.md) (2026-06-06)
+- [High-End Relationship Skills: Co-Regulation](../Relationships/2026-06-02_high-end-relationship-skills-co-regulation.md) (2026-06-02)
+- [The "Bare Minimum" Is Dead](../Relationships/2026-06-02_the-bare-minimum-is-dead.md) (2026-06-02)
+- [The Fear of Being Misunderstood](../Psychology/2026-05-27_the-fear-of-being-misunderstood.md) (2026-05-27)
+- [High-End Relationship Skills: Non-Competing Truths](../Relationships/2026-05-27_high-end-relationship-skills-non.md) (2026-05-27)
+- [Does America Actually Need Your Money Anymore?](../Politics/2026-05-25_does-america-actually-need-your-money.md) (2026-05-25)
+- [Your Parents Didn’t Date Under These Conditions](../Relationships/2026-05-23_your-parents-didnt-date-under-these.md) (2026-05-23)
+- [Trying to "Save" the Relationship](../Relationships/2026-05-20_trying-to-save-the-relationship.md) (2026-05-20)
+- [The Point of Life](../Spirituality/2026-05-17_the-point-of-life.md) (2026-05-17)
+- [Finding Your Soulmate](../Relationships/2026-05-15_finding-your-soulmate.md) (2026-05-15)
+- [The Spiritual Split](../Spirituality/2026-05-14_the-spiritual-split.md) (2026-05-14)
+- [The False Observer](../Frameworks/2026-05-11_the-false-observor.md) (2026-05-11)
+- [What Is A "Healed" Person?](../Psychology/2026-05-10_what-is-a-healed-person.md) (2026-05-10)
+- [The Voting Rights Act Collapse](../Politics/2026-05-10_the-voting-rights-act-collapse.md) (2026-05-10)
+- [The Recognition Cascade](../Frameworks/2026-05-07_the-recognition-cascade.md) (2026-05-07)
+- [The Cost of Self-Blame](../Psychology/2026-05-07_the-cost-of-self-blame.md) (2026-05-07)
+- ["Prosthetic" Relationships](../Relationships/2026-04-30_prosthetic-relationships.md) (2026-04-30)
+- [Missing Someone Is Not Evidence](../Relationships/2026-04-30_missing-someone-is-not-evidence.md) (2026-04-30)
+- [The Broken Man](../Psychology/2026-04-26_the-broken-man.md) (2026-04-26)
+- [Being Raised vs. Being Formed](../Psychology/2026-04-23_being-raised-vs-being-formed.md) (2026-04-23)
+- [The Relational Architecture](../Frameworks/2026-04-21_the-relational-architecture.md) (2026-04-21)
+- [The Problem with "Relationship Titles"](../Relationships/2026-04-21_the-problem-with-relationship-titles.md) (2026-04-21)
 - [Self-Consciousness: The Mirror System & Mirror Disaster](../Frameworks/2026-04-16_self-consciousness-the-mirror-system.md) (2026-04-16)
 - [Women Are "Confusing"](../Relationships/2026-04-13_women-are-confusing.md) (2026-04-13)
 - [The Performative Woman](../Psychology/2026-04-09_the-performative-woman.md) (2026-04-09)
@@ -205,4 +230,3 @@
 - 🔒 **The Parallel Systems** (2025-04-30) — *paid only*
 - [Anti-Restructuring Traits in Black Men](../Race & Culture/2025-04-29_anti-restructuring-traits-in-black.md) (2025-04-29)
 - [INTRO TO SOCIAL ENTROPY](../Frameworks/2025-04-29_entropy.md) (2025-04-29)
-- [Coming soon](./2025-04-29_coming-soon.md) (2025-04-29)

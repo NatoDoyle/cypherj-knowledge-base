@@ -1,9 +1,12 @@
 ---
-title: ""Settling" Won't Save You"
+title: "\"Settling\" Won't Save You"
+aliases:
+  - "\"Settling\" Won't Save You"
 author: "Justin Scott"
 date: 2026-01-03
 source: "https://cypherj.substack.com/p/settling-wont-save-you"
 word_count: 848
+summary: "Settling is socially approved dissociation that trades your future for managed numbness."
 primary_theme: "Psychology"
 tags:
   - dissociation

@@ -1,10 +1,13 @@
 ---
-title: "Beyond "Free Sudan""
+title: "Beyond \"Free Sudan\""
+aliases:
+  - "Beyond \"Free Sudan\""
 subtitle: "What To Actually Advocate For"
 author: "Justin Scott"
 date: 2025-11-05
 source: "https://cypherj.substack.com/p/beyond-free-sudan"
 word_count: 445
+summary: "Sudan's crisis requires following the gold pipeline, not slogans, to break the war economy."
 primary_theme: "Politics"
 tags:
   - geopolitics

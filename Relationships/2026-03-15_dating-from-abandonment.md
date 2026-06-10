@@ -1,10 +1,13 @@
 ---
 title: "Dating From Abandonment"
+aliases:
+  - "Dating From Abandonment"
 subtitle: "A Memory Full of Unfinished Scenes"
 author: "Justin Scott"
 date: 2026-03-15
 source: "https://cypherj.substack.com/p/dating-from-abandonment"
 word_count: 1166
+summary: "Abandonment wounds turn dating into solving unfinished emotional equations from the past."
 primary_theme: "Relationships"
 tags:
   - trauma

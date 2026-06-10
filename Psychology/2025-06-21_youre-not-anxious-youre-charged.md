@@ -1,9 +1,12 @@
 ---
 title: "You're Not Anxious, You're Charged"
+aliases:
+  - "You're Not Anxious, You're Charged"
 author: "Justin Scott"
 date: 2025-06-21
 source: "https://cypherj.substack.com/p/youre-not-anxious-youre-charged"
 word_count: 381
+summary: "Anxiety is inherited survival urgency stored in the nervous system, not personal failure."
 primary_theme: "Psychology"
 tags:
   - trauma

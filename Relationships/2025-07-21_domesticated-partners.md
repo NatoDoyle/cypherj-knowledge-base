@@ -1,10 +1,13 @@
 ---
 title: "Domesticated Partners"
+aliases:
+  - "Domesticated Partners"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-07-21
 source: "https://cypherj.substack.com/p/domesticated-partners"
 word_count: 351
+summary: "Trauma domesticates you into performing love through silence and self-erasure."
 primary_theme: "Relationships"
 tags:
   - relationships

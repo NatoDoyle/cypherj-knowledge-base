@@ -1,9 +1,12 @@
 ---
 title: "The Dream of a Good Black Mom"
+aliases:
+  - "The Dream of a Good Black Mom"
 author: "Justin Scott"
 date: 2025-05-29
 source: "https://cypherj.substack.com/p/the-dream-of-a-good-black-mom"
 word_count: 442
+summary: "Black motherhood's dream of soft love is buried under survival demands and shame."
 primary_theme: "Race & Culture"
 tags:
   - femininity

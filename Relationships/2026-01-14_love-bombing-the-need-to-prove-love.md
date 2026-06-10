@@ -1,9 +1,12 @@
 ---
 title: "Love Bombing: The Need To Prove Love"
+aliases:
+  - "Love Bombing: The Need To Prove Love"
 author: "Justin Scott"
 date: 2026-01-14
 source: "https://cypherj.substack.com/p/love-bombing-the-need-to-prove-love"
 word_count: 906
+summary: "Love bombing is preemptive self-abandonment driven by the belief that presence alone is insufficient."
 primary_theme: "Relationships"
 tags:
   - relationships

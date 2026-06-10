@@ -1,10 +1,13 @@
 ---
 title: "The Gaza Method"
+aliases:
+  - "The Gaza Method"
 subtitle: "The Peace Deal To Erase A Nation"
 author: "Justin Scott"
 date: 2025-10-07
 source: "https://cypherj.substack.com/p/the-gaza-method"
 word_count: 566
+summary: "Gaza is a template for algorithmic occupation disguised as peacekeeping and development."
 primary_theme: "Politics"
 tags:
   - geopolitics

@@ -1,11 +1,15 @@
 ---
 title: "The Illusion of Self-Betrayal"
+aliases:
+  - "The Illusion of Self-Betrayal"
 subtitle: "No such thing"
 author: "Justin Scott"
 date: 2025-11-30
 source: "https://cypherj.substack.com/p/the-illusion-of-self-betrayal"
 word_count: 366
+summary: "Self-betrayal is an illusion; past trauma moves faster than present permission."
 primary_theme: "Psychology"
+series: "The Illusion of..."
 tags:
   - trauma
   - healing

@@ -1,10 +1,13 @@
 ---
 title: "Your Silence Never Saved You"
+aliases:
+  - "Your Silence Never Saved You"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-07-15
 source: "https://cypherj.substack.com/p/your-silence-never-saved-you"
 word_count: 313
+summary: "Your silence never protected you; it just became the blueprint for mistreatment."
 primary_theme: "Psychology"
 tags:
   - trauma

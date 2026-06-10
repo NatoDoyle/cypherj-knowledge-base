@@ -1,10 +1,13 @@
 ---
 title: "Romantic Rejection"
+aliases:
+  - "Romantic Rejection"
 subtitle: "When everything you called love is a dissociation."
 author: "Justin Scott"
 date: 2025-12-06
 source: "https://cypherj.substack.com/p/romantic-rejection"
 word_count: 615
+summary: "Romantic rejection destroys the dissociative fantasy, not the self that was never built."
 primary_theme: "Psychology"
 tags:
   - dissociation

@@ -1,10 +1,13 @@
 ---
 title: "There's No Such Thing As Lazy"
+aliases:
+  - "There's No Such Thing As Lazy"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-09-29
 source: "https://cypherj.substack.com/p/theres-no-such-thing-as-lazy"
 word_count: 300
+summary: "Lazy is a cover story for systemic collapse pinned on exhausted survivors."
 primary_theme: "Psychology"
 tags:
   - trauma

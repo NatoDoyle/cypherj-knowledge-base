@@ -1,10 +1,13 @@
 ---
 title: "The Government Shut Down Ain't Over"
+aliases:
+  - "The Government Shut Down Ain't Over"
 subtitle: "Why January Looks Grim"
 author: "Justin Scott"
 date: 2025-11-17
 source: "https://cypherj.substack.com/p/the-government-shut-down-aint-over"
 word_count: 529
+summary: "The government reopening was an intermission; January brings the same crisis back harder."
 primary_theme: "Politics"
 tags:
   - politics

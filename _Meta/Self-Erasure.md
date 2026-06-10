@@ -14,6 +14,18 @@ Self-Erasure is Justin Scott's term for **the adaptive disappearance of identity
 
 ## Essays Referencing This Concept
 
+- [[2026-06-06_conditional-manhood|Conditional Manhood]] — identity as application awaiting approval — performance requiring maintenance
+- [[2026-06-02_the-bare-minimum-is-dead|The "Bare Minimum" Is Dead]] — performing recognizable love instead of being encountered
+- [[2026-05-20_trying-to-save-the-relationship|Trying to "Save" the Relationship]] — disappearing into performance while still together
+- [[2026-05-17_the-point-of-life|The Point of Life]] — identities that are scar tissue learning how to speak
+- [[2026-05-14_the-spiritual-split|The Spiritual Split]] — converting existence into render management
+- [[2026-05-11_the-false-observor|The False Observer]] — the render replacing the self at the root
+- [[2026-05-07_the-cost-of-self-blame|The Cost of Self-Blame]] — self-surveillance replacing first-person living
+- [[2026-04-30_prosthetic-relationships|"Prosthetic" Relationships]] — disappearing to function inside infrastructure-love
+- [[2026-04-30_missing-someone-is-not-evidence|Missing Someone Is Not Evidence]] — outsourcing internal functions until you can't stand alone
+- [[2026-04-26_the-broken-man|The Broken Man]] — productive self-abandonment praised as discipline
+- [[2026-04-23_being-raised-vs-being-formed|Being Raised vs. Being Formed]] — assembling a kept self; left before you ever arrived
+- [[2026-04-21_the-problem-with-relationship-titles|The Problem with "Relationship Titles"]] — the title lets you stay long past your own truth
 - [[2026-04-16_self-consciousness-the-mirror-system|Self-Consciousness: The Mirror System & Mirror Disaster]] — the self-model replaces the self; the mirror becomes the interface
 - [[2026-04-13_women-are-confusing|Women Are "Confusing"]] — compressing into legible femininity for fast recognition — erasure to stay safe
 - [[2026-04-09_the-performative-woman|The Performative Woman]] — sanding yourself down for public use; pre-translation as erasure
@@ -50,3 +62,6 @@ Self-Erasure is Justin Scott's term for **the adaptive disappearance of identity
 - [[Entropy]] — self-erasure is entropy made personal: unprocessed experience that replaces identity
 - [[Parallel Systems]] — self-erasure operates through the Keep (hiding) and Prism (mask-wearing) systems
 - [[Restructuring]] — self-erasure is a key anti-restructuring behavior
+- [[The False Observer]] — the perceptual mechanism beneath self-erasure: render replacing presence
+- [[Recognition Cascade]] — self-erasure is the Human Continuity Crisis: survival architecture instead of a formed self
+- [[Relational Architecture]] — closure and collapse are self-erasure operating inside a relational system

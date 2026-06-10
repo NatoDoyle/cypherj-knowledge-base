@@ -1,9 +1,12 @@
 ---
 title: "The Man In The Mirror"
+aliases:
+  - "The Man In The Mirror"
 author: "Justin Scott"
 date: 2026-01-30
 source: "https://cypherj.substack.com/p/the-man-in-the-mirror"
 word_count: 468
+summary: "Men use the mirror as a performance review, not self-recognition, reducing themselves to tools."
 primary_theme: "Psychology"
 tags:
   - masculinity

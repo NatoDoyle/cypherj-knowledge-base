@@ -1,10 +1,13 @@
 ---
 title: "Epstein Is Working As Designed"
+aliases:
+  - "Epstein Is Working As Designed"
 subtitle: "A Hard Conversation"
 author: "Justin Scott"
 date: 2025-12-13
 source: "https://cypherj.substack.com/p/epstein-is-working-as-designed"
 word_count: 567
+summary: "Epstein exposed the upper boundary of accountability, not a hidden scandal but systemic design."
 primary_theme: "Politics"
 tags:
   - systems

@@ -1,10 +1,13 @@
 ---
 title: "Stop Beating Yourself Up"
+aliases:
+  - "Stop Beating Yourself Up"
 subtitle: "The World Can't Love You"
 author: "Justin Scott"
 date: 2025-10-16
 source: "https://cypherj.substack.com/p/stop-beating-yourself-up"
 word_count: 662
+summary: "Self-punishment is inherited violence; healing means refusing to bleed for permission."
 primary_theme: "Psychology"
 tags:
   - trauma

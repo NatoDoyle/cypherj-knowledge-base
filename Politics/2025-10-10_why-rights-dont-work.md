@@ -1,10 +1,13 @@
 ---
-title: "Why "Rights" Don't Work"
+title: "Why \"Rights\" Don't Work"
+aliases:
+  - "Why \"Rights\" Don't Work"
 subtitle: "Rights were not designed to liberate the citizen; they were designed to stabilize the state."
 author: "Justin Scott"
 date: 2025-10-10
 source: "https://cypherj.substack.com/p/why-rights-dont-work"
 word_count: 651
+summary: "Rights are admissions of state violence, managing injury rather than preventing it."
 primary_theme: "Politics"
 tags:
   - politics

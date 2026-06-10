@@ -1,10 +1,13 @@
 ---
-title: "What "Hope" Means"
+title: "What 'Hope' Means"
+aliases:
+  - "What 'Hope' Means"
 subtitle: "It's not easy"
 author: "Justin Scott"
 date: 2026-02-13
 source: "https://cypherj.substack.com/p/what-hope-means"
 word_count: 742
+summary: "Hope is not comfort but defiance: refusing to let fear author your blueprints."
 primary_theme: "Spirituality"
 tags:
   - fear

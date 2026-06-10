@@ -1,9 +1,12 @@
 ---
 title: "It's Not Your Job to Heal a Black Man—Your Presence Is Enough"
+aliases:
+  - "It's Not Your Job to Heal a Black Man—Your Presence Is Enough"
 author: "Justin Scott"
 date: 2025-05-14
 source: "https://cypherj.substack.com/p/its-not-your-job-to-heal-a-black"
 word_count: 340
+summary: "Black women are companions not therapists; Black men must own their own healing."
 primary_theme: "Relationships"
 tags:
   - relationships

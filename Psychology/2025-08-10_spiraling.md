@@ -1,10 +1,13 @@
 ---
 title: "Spiraling"
+aliases:
+  - "Spiraling"
 subtitle: "The Reunion You Didn't Know You Were Invited To."
 author: "Justin Scott"
 date: 2025-08-10
 source: "https://cypherj.substack.com/p/spiraling"
 word_count: 427
+summary: "Spiraling is every abandoned version of you showing up at once seeking rescue."
 primary_theme: "Psychology"
 tags:
   - trauma

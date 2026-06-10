@@ -1,10 +1,13 @@
 ---
 title: "Anti-Restructuring Traits in Black Men"
+aliases:
+  - "Anti-Restructuring Traits in Black Men"
 subtitle: "Traits that strain the cognitive formation of relationships in Black Couples"
 author: "Justin Scott"
 date: 2025-04-29
 source: "https://cypherj.substack.com/p/anti-restructuring-traits-in-black"
 word_count: 649
+summary: "Catalogs trauma-rooted behavioral traits in Black men that block relational restructuring."
 primary_theme: "Race & Culture"
 tags:
   - masculinity

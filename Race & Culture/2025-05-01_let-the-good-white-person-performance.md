@@ -1,10 +1,13 @@
 ---
-title: "Let the "Good White Person" Performance Die"
+title: "Let the \"Good White Person\" Performance Die"
+aliases:
+  - "Let the \"Good White Person\" Performance Die"
 subtitle: "A pathway towards making amends beyond voting better"
 author: "Justin Scott"
 date: 2025-05-01
 source: "https://cypherj.substack.com/p/let-the-good-white-person-performance"
 word_count: 651
+summary: "Calls white America to metabolize historical grief without performance or centering itself."
 primary_theme: "Race & Culture"
 tags:
   - race

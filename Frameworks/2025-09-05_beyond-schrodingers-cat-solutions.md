@@ -1,10 +1,13 @@
 ---
 title: "Beyond Schrödinger's Cat: Solutions to Paradoxes"
+aliases:
+  - "Beyond Schrödinger's Cat: Solutions to Paradoxes"
 subtitle: "A Framework to Better Seeing"
 author: "Justin Scott"
 date: 2025-09-05
 source: "https://cypherj.substack.com/p/beyond-schrodingers-cat-solutions"
 word_count: 1332
+summary: "Paradoxes dissolve when you exit ego-centered perception and rest in presence."
 primary_theme: "Frameworks"
 tags:
   - faith

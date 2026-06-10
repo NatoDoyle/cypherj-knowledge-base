@@ -1,10 +1,13 @@
 ---
-title: ""ICE" is The United States"
-subtitle: ""There is no rogue agency in the U.S Government.""
+title: "\"ICE\" is The United States"
+aliases:
+  - "\"ICE\" is The United States"
+subtitle: "\"There is no rogue agency in the U.S Government.\""
 author: "Justin Scott"
 date: 2025-09-09
 source: "https://cypherj.substack.com/p/ice-is-the-united-states"
 word_count: 288
+summary: "ICE is not rogue; it is the latest mask in America's pattern of crisis-to-control."
 primary_theme: "Politics"
 tags:
   - politics

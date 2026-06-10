@@ -1,10 +1,13 @@
 ---
 title: "Chicago & Portland"
+aliases:
+  - "Chicago & Portland"
 subtitle: "The Experimentation of Deployment on U.S Soil"
 author: "Justin Scott"
 date: 2025-10-11
 source: "https://cypherj.substack.com/p/chicago-and-portland"
 word_count: 512
+summary: "Chicago and Portland are laboratories stress-testing how democracy normalizes state control."
 primary_theme: "Politics"
 tags:
   - politics

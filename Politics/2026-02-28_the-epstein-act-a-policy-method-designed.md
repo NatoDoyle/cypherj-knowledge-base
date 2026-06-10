@@ -1,10 +1,13 @@
 ---
 title: "The Epstein Act: A Policy Method Designed To Starve Predators"
+aliases:
+  - "The Epstein Act: A Policy Method Designed To Starve Predators"
 subtitle: "A Possible Solution To A Nightmare"
 author: "Justin Scott"
 date: 2026-02-28
 source: "https://cypherj.substack.com/p/the-epstein-act-a-policy-method-designed"
 word_count: 4570
+summary: "A policy framework using pattern detection and economic pressure to prevent predators from hiding."
 primary_theme: "Politics"
 tags:
   - systems

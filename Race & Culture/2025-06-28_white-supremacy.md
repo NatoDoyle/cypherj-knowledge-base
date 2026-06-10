@@ -1,9 +1,12 @@
 ---
-title: "White "SuPrEmAcY""
+title: "White \"SuPrEmAcY\""
+aliases:
+  - "White \"SuPrEmAcY\""
 author: "Justin Scott"
 date: 2025-06-28
 source: "https://cypherj.substack.com/p/white-supremacy"
 word_count: 1033
+summary: "White supremacy is a performance loop of narrated conquest, not actual dominance."
 primary_theme: "Race & Culture"
 tags:
   - race

@@ -1,10 +1,13 @@
 ---
 title: "Women Are \"Confusing\""
+aliases:
+  - "Women Are \"Confusing\""
 subtitle: "The Difference Between Flirting and Management"
 author: "Justin Scott"
 date: 2026-04-13
 source: "https://cypherj.substack.com/p/women-are-confusing"
 word_count: 1018
+summary: "What men read as flirting is often women managing consequence; flirting from self differs cleanly from flirting from survival."
 primary_theme: "Relationships"
 tags:
   - relationships

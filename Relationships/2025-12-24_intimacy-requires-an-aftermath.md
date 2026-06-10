@@ -1,10 +1,13 @@
 ---
 title: "Intimacy Requires An Aftermath"
+aliases:
+  - "Intimacy Requires An Aftermath"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-12-24
 source: "https://cypherj.substack.com/p/intimacy-requires-an-aftermath"
 word_count: 322
+summary: "Intimacy died because sharing stopped costing anything and no one stays after contact."
 primary_theme: "Relationships"
 tags:
   - relationships

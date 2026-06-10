@@ -1,9 +1,12 @@
 ---
 title: "You Don't Hate Yourself"
+aliases:
+  - "You Don't Hate Yourself"
 author: "Justin Scott"
 date: 2025-05-17
 source: "https://cypherj.substack.com/p/you-dont-hate-yourself"
 word_count: 412
+summary: "Self-hatred is actually fear wearing your voice; presence answers the whisper."
 primary_theme: "Psychology"
 tags:
   - fear

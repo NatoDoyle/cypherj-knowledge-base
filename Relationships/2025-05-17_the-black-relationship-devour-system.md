@@ -1,10 +1,13 @@
 ---
 title: "The Black Relationship Devour System"
+aliases:
+  - "The Black Relationship Devour System"
 subtitle: "A structure built to extract performance from Black love, then destroy it before it becomes free."
 author: "Justin Scott"
 date: 2025-05-17
 source: "https://cypherj.substack.com/p/the-black-relationship-devour-system"
 word_count: 350
+summary: "Black relationships collapse because they are structurally designed for signaling, not sanctuary."
 primary_theme: "Relationships"
 tags:
   - relationships

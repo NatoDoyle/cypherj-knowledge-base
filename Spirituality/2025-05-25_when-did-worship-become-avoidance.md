@@ -1,9 +1,12 @@
 ---
 title: "When Did Worship Become Avoidance?"
+aliases:
+  - "When Did Worship Become Avoidance?"
 author: "Justin Scott"
 date: 2025-05-25
 source: "https://cypherj.substack.com/p/when-did-worship-become-avoidance"
 word_count: 329
+summary: "Worship becomes avoidance when praise substitutes for processing real grief."
 primary_theme: "Spirituality"
 tags:
   - faith

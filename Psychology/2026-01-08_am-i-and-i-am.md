@@ -1,9 +1,12 @@
 ---
 title: "Am I & I Am"
+aliases:
+  - "Am I & I Am"
 author: "Justin Scott"
 date: 2026-01-08
 source: "https://cypherj.substack.com/p/am-i-and-i-am"
 word_count: 886
+summary: "Asking 'Am I?' keeps you absent; declaring 'I am' returns you to inhabiting your life."
 primary_theme: "Psychology"
 tags:
   - identity

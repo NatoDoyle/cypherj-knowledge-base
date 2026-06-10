@@ -1,10 +1,13 @@
 ---
 title: "The Obsession With Who Women Choose"
+aliases:
+  - "The Obsession With Who Women Choose"
 subtitle: "The Problem with Being a Spectator to Attraction"
 author: "Justin Scott"
 date: 2026-03-09
 source: "https://cypherj.substack.com/p/the-obsession-with-who-women-choose"
 word_count: 492
+summary: "Attraction responds to vitality, not moral merit; studying outcomes builds the wrong model."
 primary_theme: "Relationships"
 tags:
   - masculinity

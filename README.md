@@ -1,10 +1,13 @@
 # Knowledge Base
 
-A curated, searchable Obsidian vault of **152 essays** by [Justin Scott](https://cypherj.substack.com) — organized by theme, tagged for cross-cutting discovery, and cross-linked around his recurring conceptual frameworks.
+A curated, searchable Obsidian vault of **176 essays** by [Justin Scott](https://cypherj.substack.com) — organized by theme, tagged for cross-cutting discovery, and cross-linked around his recurring conceptual frameworks.
 
 ## Start Here
 
-New to the corpus? Read **[Justin Scott's Philosophy: A Reader's Map](_Meta/Philosophy.md)** — one synthesis of the full worldview (diagnosis, frameworks, practice) with pointers into the concept pages and defining essays.
+New to the corpus? Two entry points:
+
+- **[Justin Scott's Philosophy: A Reader's Map](_Meta/Philosophy.md)** — one synthesis of the full worldview (diagnosis, frameworks, practice) with pointers into the concept pages and defining essays.
+- **[Reading Paths](_Meta/Reading%20Paths.md)** — five ordered routes through the corpus (The Spine, Naming the Fears, Coming Back to Yourself, Love Without Performance, Seeing the Machine), with per-essay reading times.
 
 ## Getting Started
 
@@ -40,13 +43,13 @@ The vault will load with all folders, tags, and links ready to go. Start with an
 
 ```
 knowledge_base/
-├── Psychology/           52 essays — trauma, fear, healing, emotional patterns
-├── Relationships/        33 essays — dating, intimacy, love, romantic dynamics
-├── Politics/             31 essays — government, geopolitics, rights, capitalism
-├── Spirituality/         15 essays — Christianity, theology, faith, metaphysics
+├── Psychology/           59 essays — trauma, fear, healing, emotional patterns
+├── Relationships/        43 essays — dating, intimacy, love, romantic dynamics
+├── Politics/             33 essays — government, geopolitics, rights, capitalism
+├── Spirituality/         17 essays — Christianity, theology, faith, metaphysics
 ├── Race & Culture/       11 essays — Black identity, systemic racism, cultural critique
-├── Frameworks/           10 essays — concept-defining essays (theoretical backbone)
-├── _Meta/                MOCs, concept pages, INDEX.md
+├── Frameworks/           13 essays — concept-defining essays (theoretical backbone)
+├── _Meta/                MOCs, concept pages, INDEX, reading paths, glossary, timeline, series
 ├── _Tags/                15 tag pages with perspective summaries
 └── .obsidian/            vault config
 ```
@@ -66,7 +69,7 @@ Each theme folder has a corresponding MOC page in `_Meta/` that lists every essa
 
 ### Concept Pages
 
-Seven concept pages in `_Meta/` provide synthesized summaries of Justin's recurring frameworks, plus links to every essay that references the concept:
+Ten concept pages in `_Meta/` provide synthesized summaries of Justin's recurring frameworks, plus links to every essay that references the concept:
 
 | Concept | Description |
 |---------|-------------|
@@ -77,6 +80,9 @@ Seven concept pages in `_Meta/` provide synthesized summaries of Justin's recurr
 | [[Narrative Warfare]] | Controlling the story before opponents frame it against you |
 | [[Restructuring]] | Dismantling trauma-rooted survival behaviors toward wholeness |
 | [[Self-Erasure]] | The adaptive disappearance of identity when survival replaces presence |
+| [[The False Observer]] | Awareness substituting the representation of experience for experience itself |
+| [[Recognition Cascade]] | The unified macro-framework: five layers, the False Observer, and Meaning Death |
+| [[Relational Architecture]] | What relationships are: the Reality, Love, and Convergence principles |
 
 ### Tag Pages
 
@@ -84,10 +90,24 @@ Fifteen tag pages in `_Tags/` let you explore essays by cross-cutting topic. Eac
 
 `trauma` · `fear` · `healing` · `relationships` · `identity` · `race` · `politics` · `geopolitics` · `faith` · `masculinity` · `femininity` · `dissociation` · `systems` · `narrative` · `capitalism`
 
+### Study Pages
+
+Four study aids in `_Meta/`:
+
+- **[Reading Paths](_Meta/Reading%20Paths.md)** — five curated, ordered routes with reading-time estimates
+- **[Glossary](_Meta/Glossary.md)** — the corpus's invented vocabulary A–Z, each term linked to its canonical treatment
+- **[Timeline](_Meta/Timeline.md)** — five phases of the corpus and when each framework emerged
+- **[Series](_Meta/Series.md)** — the six essay series (Fear of…, Illusion of…, High-End Relationship Skills, …) with members in order
+
+### Essays Database
+
+**[Essays.base](_Meta/Essays.base)** (open in Obsidian) gives sortable, filterable table views over all 176 essays: All Essays, Quick Reads (under 600 words), Long Reads (1500+), Series, and By Theme — driven entirely by frontmatter properties.
+
 ### Obsidian Features
 
+- **Quick switcher** — `Ctrl/Cmd + O` finds essays by their actual title (every essay carries its title as an alias)
 - **Tag pane** — filter by any of the 15 tags via Obsidian's built-in tag search
-- **Graph view** — concept pages appear as connected hubs; tag pages show cross-cutting connections
+- **Graph view** — color-coded by folder (8 color groups); concept pages appear as connected hubs
 - **Backlinks** — every essay shows which concept and tag pages reference it
 - **Search** — full-text search across all essays via Obsidian's search (Cmd/Ctrl+Shift+F)
 
@@ -98,12 +118,16 @@ Each essay has YAML frontmatter:
 ```yaml
 ---
 title: "Essay Title"
+aliases:
+  - "Essay Title"
 subtitle: "Subtitle"
 author: "Justin Scott"
 date: YYYY-MM-DD
 source: "https://cypherj.substack.com/p/slug"
 word_count: NNN
+summary: "One-line summary (mirrored in the theme MOC)."
 primary_theme: "FolderName"
+series: "Series Name"        # only on series members
 tags:
   - tag1
   - tag2
@@ -114,4 +138,6 @@ concepts:
 
 ## Source
 
-All essays are by **Justin Scott**, published at [cypherj.substack.com](https://cypherj.substack.com). This vault is a personal archive for reference and study. Content spans April 2025 through April 2026.
+All essays are by **Justin Scott**, published at [cypherj.substack.com](https://cypherj.substack.com). This vault is a personal archive for reference and study. Content spans April 2025 through June 2026.
+
+**About the author:** [Psychological Analysis of Justin Scott](_Meta/Psychological%20Analysis%20of%20Justin%20Scott.md) — an AI-written profile of the author derived from the corpus itself.

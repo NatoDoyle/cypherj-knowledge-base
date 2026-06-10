@@ -1,10 +1,13 @@
 ---
 title: "It's Not Your Fault Your Friends Don't Call You"
+aliases:
+  - "It's Not Your Fault Your Friends Don't Call You"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-08-12
 source: "https://cypherj.substack.com/p/its-not-your-fault-your-friend-dont"
 word_count: 594
+summary: "Capitalism destroyed devotional friendship; your loneliness is systemic, not personal."
 primary_theme: "Relationships"
 tags:
   - relationships

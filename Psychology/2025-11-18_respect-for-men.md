@@ -1,9 +1,12 @@
 ---
 title: "Respect For Men"
+aliases:
+  - "Respect For Men"
 author: "Justin Scott"
 date: 2025-11-18
 source: "https://cypherj.substack.com/p/respect-for-men"
 word_count: 648
+summary: "Men collapse because they were taught respect means obedience rather than internal integrity."
 primary_theme: "Psychology"
 tags:
   - masculinity

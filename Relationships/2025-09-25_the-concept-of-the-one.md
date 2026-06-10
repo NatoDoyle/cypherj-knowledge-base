@@ -1,10 +1,13 @@
 ---
-title: "The Concept of "The One""
+title: "The Concept of \"The One\""
+aliases:
+  - "The Concept of \"The One\""
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-09-25
 source: "https://cypherj.substack.com/p/the-concept-of-the-one"
 word_count: 501
+summary: "\"The One\" is scarcity branded as sacred; you were always whole, not half."
 primary_theme: "Relationships"
 tags:
   - relationships

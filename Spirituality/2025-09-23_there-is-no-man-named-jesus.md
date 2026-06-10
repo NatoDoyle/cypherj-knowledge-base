@@ -1,10 +1,13 @@
 ---
 title: "There Is No Man Named Jesus"
+aliases:
+  - "There Is No Man Named Jesus"
 subtitle: "There is only the God who moved through Him"
 author: "Justin Scott"
 date: 2025-09-23
 source: "https://cypherj.substack.com/p/there-is-no-man-named-jesus"
 word_count: 450
+summary: "Religion built a franchise around Jesus the man instead of the Presence moving through him."
 primary_theme: "Spirituality"
 tags:
   - faith

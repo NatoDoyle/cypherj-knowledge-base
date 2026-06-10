@@ -1,9 +1,12 @@
 ---
 title: "You Don't Have Baggage. You Have Models"
+aliases:
+  - "You Don't Have Baggage. You Have Models"
 author: "Justin Scott"
 date: 2025-06-27
 source: "https://cypherj.substack.com/p/you-dont-have-baggage-you-have-models"
 word_count: 411
+summary: "Relationship struggles come from inherited love models, not personal brokenness."
 primary_theme: "Relationships"
 tags:
   - relationships

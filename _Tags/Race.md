@@ -9,8 +9,9 @@ tag: "race"
 
 For Justin Scott, race in America is not primarily a sociological category but a narrative operation — a "performance loop" that manufactured supremacy through visibility, editing, and repetition rather than genuine dominance. He dismantles the mythology of white supremacy by cataloguing its borrowed foundations, stolen knowledge systems, and self-immolating empires, arguing it "conquered the mirror" rather than the world. Scott frames whiteness itself as a spiritual wound: an identity severed from pre-colonial ancestral roots (Scottish, Irish, Slavic) that now requires constant ritual maintenance through curriculum, statues, and law. His prescription for White America is not allyship but "metabolization" — unfilmed mourning, quiet reparations without branding, and the death of the "good white person" performance. Crucially, he rejects Black supremacy as holding the same script upside down, insisting Blackness needs "joy without surveillance" rather than a seat atop the same hierarchy. Juneteenth, in his telling, celebrates not America's generosity but "the interruption" — the day the lie finally cracked under its own weight.
 
-## Essays (19)
+## Essays (20)
 
+- [[2026-05-10_the-voting-rights-act-collapse|The Voting Rights Act Collapse]] — The Voting Rights Act was a democratic pressure valve; its collapse signals representational instability and a nationwide recognition crisis, not just a Black issue.
 - [[2025-12-30_the-nigerian-genocide|The Nigerian Genocide]] — Nigeria's genocide narrative masks the gold economy; moral framing blocks financial accountability.
 - [[2025-12-27_diddy-and-the-boundary-of-black-freedom|Diddy & The Boundary Of Black Freedom]] — Black men cannot coordinate safety enforcement without criminalization, enabling powerful predators.
 - [[2025-11-17_the-government-shut-down-aint-over|The Government Shut Down Ain't Over]] — The government reopening was an intermission; January brings the same crisis back harder.

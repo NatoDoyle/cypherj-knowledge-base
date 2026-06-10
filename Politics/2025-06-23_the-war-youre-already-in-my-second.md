@@ -1,9 +1,12 @@
 ---
 title: "The War You're Already In: My Second Call For Narrative Warfare"
+aliases:
+  - "The War You're Already In: My Second Call For Narrative Warfare"
 author: "Justin Scott"
 date: 2025-06-23
 source: "https://cypherj.substack.com/p/the-war-youre-already-in-my-second"
 word_count: 1040
+summary: "Geopolitical escalation demands narrative warfare because attention shapes how wars are remembered."
 primary_theme: "Politics"
 tags:
   - geopolitics

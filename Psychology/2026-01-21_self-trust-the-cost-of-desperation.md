@@ -1,10 +1,13 @@
 ---
 title: "Self-Trust: The Cost of Desperation"
+aliases:
+  - "Self-Trust: The Cost of Desperation"
 subtitle: "You know why you don't self-trust?"
 author: "Justin Scott"
 date: 2026-01-21
 source: "https://cypherj.substack.com/p/self-trust-the-cost-of-desperation"
 word_count: 806
+summary: "Self-trust dies when desperation for witness makes you abandon your own signal."
 primary_theme: "Psychology"
 tags:
   - trauma

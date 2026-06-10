@@ -1,11 +1,15 @@
 ---
 title: "The Illusion of \"Self-Worth\""
+aliases:
+  - "The Illusion of \"Self-Worth\""
 subtitle: "And No You Don't Have It"
 author: "Justin Scott"
 date: 2026-03-30
 source: "https://cypherj.substack.com/p/the-illusion-of-self-worth"
 word_count: 608
+summary: "'Self-worth' is self-surveillance rebranded; worth cannot be calculated because you are not a measurement."
 primary_theme: "Psychology"
+series: "The Illusion of..."
 tags:
   - identity
   - dissociation

@@ -1,10 +1,13 @@
 ---
 title: "Self-Consciousness: The Mirror System & Mirror Disaster"
+aliases:
+  - "Self-Consciousness: The Mirror System & Mirror Disaster"
 subtitle: "My Structural Notes and Insights"
 author: "Justin Scott"
 date: 2026-04-16
 source: "https://cypherj.substack.com/p/self-consciousness-the-mirror-system"
 word_count: 844
+summary: "The mind's mirror became the interface; most self-reflection is the loop maintaining itself, and more introspection deepens the trap."
 primary_theme: "Frameworks"
 tags:
   - identity

@@ -1,9 +1,12 @@
 ---
 title: "The Danger of Expectation"
+aliases:
+  - "The Danger of Expectation"
 author: "Justin Scott"
 date: 2026-02-20
 source: "https://cypherj.substack.com/p/the-danger-of-expectation"
 word_count: 1006
+summary: "Expectations fail because living systems cannot be frozen into guarantees."
 primary_theme: "Psychology"
 tags:
   - trauma

@@ -1,9 +1,12 @@
 ---
 title: "The Emotional Disinheritance of Black Men"
+aliases:
+  - "The Emotional Disinheritance of Black Men"
 author: "Justin Scott"
 date: 2025-06-07
 source: "https://cypherj.substack.com/p/the-emotional-disinheritance-of-black"
 word_count: 639
+summary: "Black men were armored instead of raised, losing access to emotional wholeness."
 primary_theme: "Race & Culture"
 tags:
   - masculinity

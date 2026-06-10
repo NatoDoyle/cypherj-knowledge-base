@@ -1,10 +1,13 @@
 ---
 title: "The Story of Invisibility"
+aliases:
+  - "The Story of Invisibility"
 subtitle: "A Childhood Spent In Disappearing For Others"
 author: "Justin Scott"
 date: 2025-07-05
 source: "https://cypherj.substack.com/p/the-story-of-invisibility"
 word_count: 600
+summary: "Childhood taught you to disappear for others; healing means returning to yourself."
 primary_theme: "Psychology"
 tags:
   - trauma

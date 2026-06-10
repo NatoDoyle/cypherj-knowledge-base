@@ -1,10 +1,13 @@
 ---
 title: "Boundaries Don't Protect You"
+aliases:
+  - "Boundaries Don't Protect You"
 subtitle: "Boundaries don't prevent harm, they reveal reality."
 author: "Justin Scott"
 date: 2026-03-19
 source: "https://cypherj.substack.com/p/boundaries-dont-protect-you"
 word_count: 1062
+summary: "Boundaries reveal alignment rather than prevent harm, rebuilding selfhood lost in childhood."
 primary_theme: "Psychology"
 tags:
   - trauma

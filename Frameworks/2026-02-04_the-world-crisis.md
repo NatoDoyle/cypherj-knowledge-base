@@ -1,9 +1,12 @@
 ---
 title: "The World Crisis"
+aliases:
+  - "The World Crisis"
 author: "Justin Scott"
 date: 2026-02-04
 source: "https://cypherj.substack.com/p/the-world-crisis"
 word_count: 1570
+summary: "Civilization is a replacement engine converting humanity into function via a substrate-agnostic throughput attractor."
 primary_theme: "Frameworks"
 tags:
   - systems

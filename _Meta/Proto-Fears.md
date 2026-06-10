@@ -14,6 +14,9 @@ The Proto-Fears are Justin Scott's term for **eight primordial wounds** — raw,
 
 ## Essays Referencing This Concept
 
+- [[2026-06-06_the-fear-of-uncertainty|The Fear of Uncertainty]] — fear of uncertainty's sensation organizing life around impossible guarantees
+- [[2026-06-02_high-end-relationship-skills-co-regulation|High-End Relationship Skills: Co-Regulation]] — the burden belief — turning the need for support into evidence of being a problem
+- [[2026-05-27_the-fear-of-being-misunderstood|The Fear of Being Misunderstood]] — the fear of being unseen as a survival adaptation
 - [[2026-04-13_women-are-confusing|Women Are "Confusing"]] — fear of consequence driving pre-translation before misreading
 - [[2026-04-02_beyond-attachment|Beyond "Attachment"]] — separation Proto-Fear wired as dependency for emotional regulation
 - [[2026-03-30_the-illusion-of-self-worth|The Illusion of "Self-Worth"]] — insufficiency Proto-Fear repackaged as self-surveillance
@@ -35,3 +38,4 @@ The Proto-Fears are Justin Scott's term for **eight primordial wounds** — raw,
 - [[Parallel Systems]] — the survival architectures Proto-Fears mutate into when unprocessed
 - [[Entropy]] — Proto-Fears that go unmetabolized become entropy
 - [[Self-Erasure]] — the behavioral result of the Fear of Being Unseen and Fear of Insufficiency
+- [[The False Observer]] — the authority transfer is driven by the fear of uncertainty and of being unseen

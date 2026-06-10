@@ -1,10 +1,13 @@
 ---
 title: "The Christian Pantheon(Yes I'm Serious)"
+aliases:
+  - "The Christian Pantheon(Yes I'm Serious)"
 subtitle: "A Psycho-Spiritual Architecture of Western Monotheism"
 author: "Justin Scott"
 date: 2025-11-02
 source: "https://cypherj.substack.com/p/the-christian-pantheonyes-im-serious"
 word_count: 458
+summary: "Christianity functions as a polytheistic system where believers toggle between developmental god-forms."
 primary_theme: "Spirituality"
 tags:
   - faith

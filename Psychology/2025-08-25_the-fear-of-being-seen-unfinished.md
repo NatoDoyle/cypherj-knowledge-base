@@ -1,11 +1,15 @@
 ---
 title: "The Fear Of Being Seen Unfinished"
+aliases:
+  - "The Fear Of Being Seen Unfinished"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-08-25
 source: "https://cypherj.substack.com/p/the-fear-of-being-seen-unfinished"
 word_count: 308
+summary: "Being unfinished is not a crime; you are allowed to exist without proving worth."
 primary_theme: "Psychology"
+series: "The Fear of..."
 tags:
   - fear
   - healing

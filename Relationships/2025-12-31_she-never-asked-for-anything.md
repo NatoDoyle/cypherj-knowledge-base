@@ -1,10 +1,13 @@
 ---
 title: "She Never Asked For Anything"
+aliases:
+  - "She Never Asked For Anything"
 subtitle: "A Short Story By Justin Scott"
 author: "Justin Scott"
 date: 2025-12-31
 source: "https://cypherj.substack.com/p/she-never-asked-for-anything"
 word_count: 6687
+summary: "A man replaces his partner with an imaginary woman who never challenges him."
 primary_theme: "Relationships"
 tags:
   - relationships

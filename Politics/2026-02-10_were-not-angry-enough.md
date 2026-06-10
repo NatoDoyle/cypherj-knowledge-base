@@ -1,10 +1,13 @@
 ---
 title: "WE'RE NOT ANGRY ENOUGH"
+aliases:
+  - "WE'RE NOT ANGRY ENOUGH"
 subtitle: "As If Anger Could Cut It"
 author: "Justin Scott"
 date: 2026-02-10
 source: "https://cypherj.substack.com/p/were-not-angry-enough"
 word_count: 1021
+summary: "The system absorbs anger indefinitely; only withdrawal of belief can starve it."
 primary_theme: "Politics"
 tags:
   - politics

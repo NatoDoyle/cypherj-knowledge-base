@@ -1,10 +1,13 @@
 ---
 title: "Beyond \"Attachment\""
+aliases:
+  - "Beyond \"Attachment\""
 subtitle: "You don't have an attachment style, you have a dependency."
 author: "Justin Scott"
 date: 2026-04-02
 source: "https://cypherj.substack.com/p/beyond-attachment"
 word_count: 792
+summary: "Attachment styles mask dependency; what's lost when they leave is the stable self that only existed in their presence."
 primary_theme: "Relationships"
 tags:
   - relationships

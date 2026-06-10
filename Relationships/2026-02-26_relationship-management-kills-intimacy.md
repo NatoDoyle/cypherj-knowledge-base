@@ -1,10 +1,13 @@
 ---
 title: "Relationship Management Kills Intimacy"
-subtitle: "Why "Good Communication" Won't Save You"
+aliases:
+  - "Relationship Management Kills Intimacy"
+subtitle: "Why \"Good Communication\" Won't Save You"
 author: "Justin Scott"
 date: 2026-02-26
 source: "https://cypherj.substack.com/p/relationship-management-kills-intimacy"
 word_count: 1006
+summary: "Over-managing communication erases authenticity and suffocates the intimacy it claims to protect."
 primary_theme: "Relationships"
 tags:
   - relationships

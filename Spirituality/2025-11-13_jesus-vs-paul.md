@@ -1,10 +1,13 @@
 ---
 title: "Jesus vs. Paul"
+aliases:
+  - "Jesus vs. Paul"
 subtitle: "An Expanded Verse-For-Verse Mapping of Controversy"
 author: "Justin Scott"
 date: 2025-11-13
 source: "https://cypherj.substack.com/p/jesus-vs-paul"
 word_count: 1041
+summary: "Paul re-engineered Jesus's awareness-based liberation movement into a transactional legal system."
 primary_theme: "Spirituality"
 tags:
   - faith

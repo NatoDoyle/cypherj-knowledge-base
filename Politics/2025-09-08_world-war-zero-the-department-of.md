@@ -1,10 +1,13 @@
 ---
 title: "WORLD WAR ZERO: The Department of War"
+aliases:
+  - "WORLD WAR ZERO: The Department of War"
 subtitle: "A blueprint for understanding the transformation of American power into a totalized war apparatus"
 author: "Justin Scott"
 date: 2025-09-08
 source: "https://cypherj.substack.com/p/world-war-zero-the-department-of"
 word_count: 1171
+summary: "U.S. power is fusing into a totalized war apparatus erasing civilian-combatant distinctions."
 primary_theme: "Politics"
 tags:
   - geopolitics

@@ -1,9 +1,12 @@
 ---
 title: "You're Not Grown—You've Just Memorized a Defense Script"
+aliases:
+  - "You're Not Grown—You've Just Memorized a Defense Script"
 author: "Justin Scott"
 date: 2025-05-16
 source: "https://cypherj.substack.com/p/youre-not-grownyouve-just-memorized"
 word_count: 560
+summary: "Claiming 'I'm grown' often masks emotional avoidance disguised as maturity."
 primary_theme: "Psychology"
 tags:
   - trauma
