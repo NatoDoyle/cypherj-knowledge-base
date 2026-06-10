@@ -1,9 +1,12 @@
 ---
 title: "There Is No War In Venezuela"
+aliases:
+  - "There Is No War In Venezuela"
 author: "Justin Scott"
 date: 2025-11-01
 source: "https://cypherj.substack.com/p/there-is-no-war-in-venezuela"
 word_count: 556
+summary: "The War Powers Act enables perpetual undeclared war through procedural loopholes and silence."
 primary_theme: "Politics"
 tags:
   - geopolitics

@@ -1,11 +1,15 @@
 ---
 title: "The Insecure Woman"
+aliases:
+  - "The Insecure Woman"
 subtitle: "A Deeply Misunderstood Figure"
 author: "Justin Scott"
 date: 2026-02-23
 source: "https://cypherj.substack.com/p/the-insecure-woman"
 word_count: 1042
+summary: "Female insecurity is childhood survival logic misapplied to adult love, exhausting both partners."
 primary_theme: "Relationships"
+series: "The Insecure Man/Woman"
 tags:
   - relationships
   - fear

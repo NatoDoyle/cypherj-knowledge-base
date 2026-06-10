@@ -1,10 +1,14 @@
 ---
 title: "The Fear of Being Perceived"
+aliases:
+  - "The Fear of Being Perceived"
 author: "Justin Scott"
 date: 2025-05-21
 source: "https://cypherj.substack.com/p/the-fear-of-being-perceived"
 word_count: 290
+summary: "Fear of perception stems from being misnamed; the longing is to be witnessed."
 primary_theme: "Psychology"
+series: "The Fear of..."
 tags:
   - fear
   - identity

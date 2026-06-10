@@ -1,9 +1,12 @@
 ---
-title: "The Myth of the "Good Childhood""
+title: "The Myth of the \"Good Childhood\""
+aliases:
+  - "The Myth of the \"Good Childhood\""
 author: "Justin Scott"
 date: 2025-05-25
 source: "https://cypherj.substack.com/p/the-myth-of-the-good-childhood"
 word_count: 416
+summary: "Emotional neglect in stable homes is invisible trauma from what never happened."
 primary_theme: "Psychology"
 tags:
   - trauma

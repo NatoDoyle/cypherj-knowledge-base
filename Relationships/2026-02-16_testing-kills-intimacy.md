@@ -1,10 +1,13 @@
 ---
-title: ""Testing" Kills Intimacy"
+title: "\"Testing\" Kills Intimacy"
+aliases:
+  - "\"Testing\" Kills Intimacy"
 subtitle: "Love Can't Survive Under Surveillance."
 author: "Justin Scott"
 date: 2026-02-16
 source: "https://cypherj.substack.com/p/testing-kills-intimacy"
 word_count: 483
+summary: "Testing a partner replaces connection with surveillance, killing intimacy through one-sided risk transfer."
 primary_theme: "Relationships"
 tags:
   - relationships

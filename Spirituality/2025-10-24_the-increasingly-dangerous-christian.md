@@ -1,10 +1,13 @@
 ---
 title: "The Increasingly Dangerous Christian-Zionist Prophecy"
+aliases:
+  - "The Increasingly Dangerous Christian-Zionist Prophecy"
 subtitle: "The Totalized Planned Apocalypse"
 author: "Justin Scott"
 date: 2025-10-24
 source: "https://cypherj.substack.com/p/the-increasingly-dangerous-christian"
 word_count: 3332
+summary: "Christian Zionism reconstructs the separation logic Jesus destroyed, funding violence in his name."
 primary_theme: "Spirituality"
 tags:
   - faith

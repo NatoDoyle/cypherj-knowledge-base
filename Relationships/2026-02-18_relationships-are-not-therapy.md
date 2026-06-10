@@ -1,9 +1,12 @@
 ---
 title: "Relationships Are Not Therapy"
+aliases:
+  - "Relationships Are Not Therapy"
 author: "Justin Scott"
 date: 2026-02-18
 source: "https://cypherj.substack.com/p/relationships-are-not-therapy"
 word_count: 473
+summary: "Love is a meeting point between intact people, not a repair shop for unhealed wounds."
 primary_theme: "Relationships"
 tags:
   - relationships

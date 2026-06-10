@@ -1,9 +1,12 @@
 ---
 title: "Sexualization Is Capitalism"
+aliases:
+  - "Sexualization Is Capitalism"
 author: "Justin Scott"
 date: 2026-03-05
 source: "https://cypherj.substack.com/p/sexualization-is-capitalism"
 word_count: 659
+summary: "Sexualization applies market logic to bodies, destroying the mystery that real eroticism requires."
 primary_theme: "Relationships"
 tags:
   - capitalism

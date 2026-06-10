@@ -1,11 +1,15 @@
 ---
-title: "The Illusion of "Options""
+title: "The Illusion of \"Options\""
+aliases:
+  - "The Illusion of \"Options\""
 subtitle: "The Idea of an Interchangeable Dating Pool of Humans"
 author: "Justin Scott"
 date: 2026-03-12
 source: "https://cypherj.substack.com/p/the-illusion-of-options"
 word_count: 655
+summary: "Romantic 'options' are an illusion; real connection comes from rare recognition, not abundance."
 primary_theme: "Relationships"
+series: "The Illusion of..."
 tags:
   - relationships
   - capitalism

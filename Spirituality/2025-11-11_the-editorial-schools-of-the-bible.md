@@ -1,10 +1,13 @@
 ---
 title: "The Editorial Schools of The Bible"
+aliases:
+  - "The Editorial Schools of The Bible"
 subtitle: "Everyone Who Had Influence On Your Religion"
 author: "Justin Scott"
 date: 2025-11-11
 source: "https://cypherj.substack.com/p/the-editorial-schools-of-the-bible"
 word_count: 1596
+summary: "Christianity is 29 stacked theological layers from awareness tradition to prosperity capitalism."
 primary_theme: "Spirituality"
 tags:
   - faith

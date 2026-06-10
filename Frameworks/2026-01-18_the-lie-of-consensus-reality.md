@@ -1,10 +1,13 @@
 ---
 title: "The Lie of Consensus Reality"
+aliases:
+  - "The Lie of Consensus Reality"
 subtitle: "How we mistake coordinated rendering for objective truth"
 author: "Justin Scott"
 date: 2026-01-18
 source: "https://cypherj.substack.com/p/the-lie-of-consensus-reality"
 word_count: 14241
+summary: "Consensus reality is coordinated rendering mistaken for objective truth; only awareness and patterns exist."
 primary_theme: "Frameworks"
 tags:
   - systems

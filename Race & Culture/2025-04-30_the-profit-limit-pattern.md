@@ -1,10 +1,13 @@
 ---
 title: "THE PROFIT LIMIT PATTERN"
+aliases:
+  - "THE PROFIT LIMIT PATTERN"
 subtitle: "The reason why getting good black TV is so hard"
 author: "Justin Scott"
 date: 2025-04-30
 source: "https://cypherj.substack.com/p/the-profit-limit-pattern"
 word_count: 1058
+summary: "Media capitalism limits Black visibility to extractable trauma narratives for profit."
 primary_theme: "Race & Culture"
 tags:
   - narrative

@@ -7,17 +7,39 @@ theme: "Frameworks"
 
 The theoretical backbone: essays that define Justin's conceptual frameworks and analytical systems.
 
-**10 essays**
+**13 essays**
 
 ## Essays
 
-- [[2026-04-16_self-consciousness-the-mirror-system|Self-Consciousness: The Mirror System & Mirror Disaster]] — The mind's mirror became the interface; most self-reflection is the loop maintaining itself, and more introspection deepens the trap.
-- [[2026-02-04_the-world-crisis|The World Crisis]] — Civilization is a replacement engine converting humanity into function via a substrate-agnostic throughput attractor.
-- [[2026-01-18_the-lie-of-consensus-reality|The Lie of Consensus Reality]] — Consensus reality is coordinated rendering mistaken for objective truth; only awareness and patterns exist.
+### Foundations
+
+*The three load-bearing definitions — entropy, the proto-fears, self-erasure.*
+
 - [[2026-01-07_self-erasure|Self-Erasure]] — Self-erasure is the adaptive disappearance of identity when survival replaces presence.
+- [[2025-05-14_the-proto-fears-the-foundation-to|THE PROTO-FEARS: The Foundation to the Parallel Systems]] — Defines eight proto-fears as primal wounds that mutate into parallel survival systems.
+- [[2025-04-29_entropy|INTRO TO SOCIAL ENTROPY]] — Defines social entropy as unprocessed collective trauma and proposes a metric to measure it.
+
+### The Observer Arc
+
+*The 2026 convergence — mirror, architecture, cascade, and the false observer.*
+
+- [[2026-05-11_the-false-observor|The False Observer]] — The cognitive structure that substitutes the representation of experience for experience itself — its installation, history, consequences, and counterforce.
+- [[2026-05-07_the-recognition-cascade|The Recognition Cascade]] — Justin's unified macro-framework: five layers from aperture to basin, the False Observer as root mechanism, and Meaning Death as terminal civilizational collapse.
+- [[2026-04-21_the-relational-architecture|The Relational Architecture]] — A complete structural framework for relationships: the Reality, Love, and Convergence principles, and why systems die while still appearing alive.
+- [[2026-04-16_self-consciousness-the-mirror-system|Self-Consciousness: The Mirror System & Mirror Disaster]] — The mind's mirror became the interface; most self-reflection is the loop maintaining itself, and more introspection deepens the trap.
+
+### LIUT & Metaphysics
+
+*Consciousness as focused light — and what reality renders.*
+
+- [[2026-01-18_the-lie-of-consensus-reality|The Lie of Consensus Reality]] — Consensus reality is coordinated rendering mistaken for objective truth; only awareness and patterns exist.
 - [[2025-11-09_the-light-identity-unified-theory|THE LIGHT-IDENTITY UNIFIED THEORY]] — Consciousness is light focused through a metabolic lens; death returns awareness to infinity.
 - [[2025-11-09_notes-about-the-light-identity-unified|Notes About The Light-Identity Unified Theory]] — Companion notes clarifying that the LIUT is a testable hypothesis, not religious doctrine.
 - [[2025-09-05_beyond-schrodingers-cat-solutions|Beyond Schrodinger's Cat: Solutions to Paradoxes]] — Paradoxes dissolve when you exit ego-centered perception and rest in presence.
+
+### Civilizational Mechanics
+
+*How narrative and crisis steer the species.*
+
+- [[2026-02-04_the-world-crisis|The World Crisis]] — Civilization is a replacement engine converting humanity into function via a substrate-agnostic throughput attractor.
 - [[2025-06-11_narrative-warfare|Narrative Warfare]] — Defines narrative warfare: controlling the story before opponents frame it against you.
-- [[2025-05-14_the-proto-fears-the-foundation-to|THE PROTO-FEARS: The Foundation to the Parallel Systems]] — Defines eight proto-fears as primal wounds that mutate into parallel survival systems.
-- [[2025-04-29_entropy|INTRO TO SOCIAL ENTROPY]] — Defines social entropy as unprocessed collective trauma and proposes a metric to measure it.

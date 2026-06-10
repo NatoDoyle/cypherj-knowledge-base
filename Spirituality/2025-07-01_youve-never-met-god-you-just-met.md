@@ -1,10 +1,13 @@
 ---
 title: "You've Never Met God. You Just Met A God-Shaped Cage"
+aliases:
+  - "You've Never Met God. You Just Met A God-Shaped Cage"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-07-01
 source: "https://cypherj.substack.com/p/youve-never-met-god-you-just-met"
 word_count: 317
+summary: "Institutional religion gave you a counterfeit God built on control, not presence."
 primary_theme: "Spirituality"
 tags:
   - faith

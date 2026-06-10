@@ -1,10 +1,13 @@
 ---
 title: "Brotherhood Has Collapsed"
+aliases:
+  - "Brotherhood Has Collapsed"
 subtitle: "A Roof Nobody Noticed Fall In"
 author: "Justin Scott"
 date: 2025-11-23
 source: "https://cypherj.substack.com/p/brotherhood-has-collapsed"
 word_count: 479
+summary: "Male loneliness stems from the systemic collapse of brotherhood, not individual weakness."
 primary_theme: "Psychology"
 tags:
   - masculinity

@@ -1,10 +1,14 @@
 ---
 title: "The Insecure Man"
+aliases:
+  - "The Insecure Man"
 author: "Justin Scott"
 date: 2026-02-21
 source: "https://cypherj.substack.com/p/the-insecure-man"
 word_count: 1066
+summary: "Male insecurity persists because men are taught worth is earned, making rest feel dangerous."
 primary_theme: "Psychology"
+series: "The Insecure Man/Woman"
 tags:
   - masculinity
   - fear

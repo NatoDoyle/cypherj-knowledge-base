@@ -1,11 +1,15 @@
 ---
 title: "Self-Sabotage: The Fear of Hope"
+aliases:
+  - "Self-Sabotage: The Fear of Hope"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-07-31
 source: "https://cypherj.substack.com/p/self-sabotage-the-fear-of-hope"
 word_count: 538
+summary: "Self-sabotage is not fearing failure but fearing hope after past betrayal."
 primary_theme: "Psychology"
+series: "The Fear of..."
 tags:
   - trauma
   - fear

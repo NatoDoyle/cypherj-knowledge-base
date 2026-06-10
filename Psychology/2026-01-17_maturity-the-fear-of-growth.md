@@ -1,10 +1,14 @@
 ---
 title: "Maturity: The Fear of Growth"
+aliases:
+  - "Maturity: The Fear of Growth"
 author: "Justin Scott"
 date: 2026-01-17
 source: "https://cypherj.substack.com/p/maturity-the-fear-of-growth"
 word_count: 993
+summary: "What society calls maturity is learned self-amputation disguised as emotional growth."
 primary_theme: "Psychology"
+series: "The Fear of..."
 tags:
   - fear
   - identity

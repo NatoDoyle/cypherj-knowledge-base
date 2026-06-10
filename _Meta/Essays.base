@@ -1,0 +1,88 @@
+filters:
+  or:
+    - file.inFolder("Psychology")
+    - file.inFolder("Relationships")
+    - file.inFolder("Politics")
+    - file.inFolder("Spirituality")
+    - file.inFolder("Race & Culture")
+    - file.inFolder("Frameworks")
+properties:
+  note.primary_theme:
+    displayName: Theme
+  note.date:
+    displayName: Date
+  note.word_count:
+    displayName: Words
+  note.summary:
+    displayName: Summary
+  note.series:
+    displayName: Series
+views:
+  - type: table
+    name: All Essays
+    order:
+      - file.name
+      - note.primary_theme
+      - note.date
+      - note.word_count
+      - note.summary
+    sort:
+      - property: note.date
+        direction: DESC
+  - type: table
+    name: Quick Reads (under 600 words)
+    filters:
+      and:
+        - 'note.word_count < 600'
+    order:
+      - file.name
+      - note.primary_theme
+      - note.date
+      - note.word_count
+      - note.summary
+    sort:
+      - property: note.date
+        direction: DESC
+  - type: table
+    name: Long Reads (1500+ words)
+    filters:
+      and:
+        - 'note.word_count >= 1500'
+    order:
+      - file.name
+      - note.primary_theme
+      - note.date
+      - note.word_count
+      - note.summary
+    sort:
+      - property: note.word_count
+        direction: DESC
+  - type: table
+    name: Series
+    filters:
+      and:
+        - '!note.series.isEmpty()'
+    order:
+      - note.series
+      - file.name
+      - note.date
+      - note.word_count
+      - note.summary
+    sort:
+      - property: note.series
+        direction: ASC
+      - property: note.date
+        direction: ASC
+  - type: table
+    name: By Theme
+    groupBy:
+      property: note.primary_theme
+      direction: ASC
+    order:
+      - file.name
+      - note.date
+      - note.word_count
+      - note.summary
+    sort:
+      - property: note.date
+        direction: DESC

@@ -1,10 +1,13 @@
 ---
 title: "Notes About The Light-Identity Unified Theory"
+aliases:
+  - "Notes About The Light-Identity Unified Theory"
 subtitle: "Understanding the Goal of the Document"
 author: "Justin Scott"
 date: 2025-11-09
 source: "https://cypherj.substack.com/p/notes-about-the-light-identity-unified"
 word_count: 525
+summary: "Companion notes clarifying that the LIUT is a testable hypothesis, not religious doctrine."
 primary_theme: "Frameworks"
 tags:
   - identity

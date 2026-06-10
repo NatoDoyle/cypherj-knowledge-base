@@ -1,10 +1,13 @@
 ---
 title: "The Nigerian Genocide"
+aliases:
+  - "The Nigerian Genocide"
 subtitle: "FOLLOW THE METAL"
 author: "Justin Scott"
 date: 2025-12-30
 source: "https://cypherj.substack.com/p/the-nigerian-genocide"
 word_count: 360
+summary: "Nigeria's genocide narrative masks the gold economy; moral framing blocks financial accountability."
 primary_theme: "Politics"
 tags:
   - geopolitics

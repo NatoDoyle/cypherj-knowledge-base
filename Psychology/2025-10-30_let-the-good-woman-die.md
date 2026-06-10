@@ -1,10 +1,13 @@
 ---
-title: "Let the "Good Woman" Die"
+title: "Let the \"Good Woman\" Die"
+aliases:
+  - "Let the \"Good Woman\" Die"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-10-30
 source: "https://cypherj.substack.com/p/let-the-good-woman-die"
 word_count: 302
+summary: "The 'good woman' archetype must die so the whole woman can finally rise."
 primary_theme: "Psychology"
 tags:
   - femininity

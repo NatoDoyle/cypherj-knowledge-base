@@ -1,10 +1,13 @@
 ---
 title: "Venezuela Is About You"
+aliases:
+  - "Venezuela Is About You"
 subtitle: "An Exhaustive."
 author: "Justin Scott"
 date: 2025-10-20
 source: "https://cypherj.substack.com/p/venezuela-is-about-you"
 word_count: 789
+summary: "Venezuela's maritime strikes reveal a template for procedural fascism controlling domestic movement."
 primary_theme: "Politics"
 tags:
   - geopolitics

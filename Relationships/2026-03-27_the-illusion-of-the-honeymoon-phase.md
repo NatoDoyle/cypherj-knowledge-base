@@ -1,11 +1,15 @@
 ---
 title: "The Illusion of the Honeymoon Phase"
+aliases:
+  - "The Illusion of the Honeymoon Phase"
 subtitle: "& Unbuffered Intimacy"
 author: "Justin Scott"
 date: 2026-03-27
 source: "https://cypherj.substack.com/p/the-illusion-of-the-honeymoon-phase"
 word_count: 527
+summary: "The honeymoon phase is managed performance; unbuffered intimacy is what real love requires."
 primary_theme: "Relationships"
+series: "The Illusion of..."
 tags:
   - relationships
   - fear

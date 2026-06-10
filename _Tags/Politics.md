@@ -9,8 +9,10 @@ tag: "politics"
 
 In Scott's framework, politics is not a contest between ideologies but a system engineered to absorb every form of resistance — rage, reform, legal victories — without ever changing what it fundamentally is. Rights, he argues, are not liberatory instruments but "paper tourniquets" and "seatbelts in a car still speeding toward the wall," confessions of the state's appetite for harm dressed as protection. He reframes every U.S. policy as a "mortality rate adjustment," exposing Republican survivorship bias as a filter that treats voter death as a renewal cycle. Scott is deeply skeptical of anger as political strategy, insisting the system treats rage as a renewable resource and proof you are still inside its cage. Free speech, gun rights, and court victories are all recast as permissions that confirm the system's dominance rather than challenge it. His proposed alternative is not escalation but "withdrawal of belief" — people quietly refusing to let their lives be the fuel, starving the system of the legitimacy it cannot survive without.
 
-## Essays (23)
+## Essays (25)
 
+- [[2026-05-25_does-america-actually-need-your-money|Does America Actually Need Your Money Anymore?]] — When GDP rises through extraction without broad integration, the system stops needing ordinary people to thrive — and democracy starts mutating.
+- [[2026-05-10_the-voting-rights-act-collapse|The Voting Rights Act Collapse]] — The Voting Rights Act was a democratic pressure valve; its collapse signals representational instability and a nationwide recognition crisis, not just a Black issue.
 - [[2026-02-28_the-epstein-act-a-policy-method-designed|The Epstein Act: A Policy Method Designed To Starve Predators]] — A policy framework using pattern detection and economic pressure to prevent predators from hiding.
 - [[2026-02-10_were-not-angry-enough|WE'RE NOT ANGRY ENOUGH]] — The system absorbs anger indefinitely; only withdrawal of belief can starve it.
 - [[2026-02-04_epstein-the-story-is-already-over|Epstein: The Story Is Already Over]] — Disclosure without structural redesign stabilizes the system; the Epstein files teach survival, not justice.

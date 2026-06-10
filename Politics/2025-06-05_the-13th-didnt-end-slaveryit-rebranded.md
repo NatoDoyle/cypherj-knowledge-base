@@ -1,9 +1,12 @@
 ---
 title: "The 13th Didn't End Slavery—It Rebranded It."
+aliases:
+  - "The 13th Didn't End Slavery—It Rebranded It."
 author: "Justin Scott"
 date: 2025-06-05
 source: "https://cypherj.substack.com/p/the-13th-didnt-end-slaveryit-rebranded"
 word_count: 365
+summary: "The 13th Amendment loophole legalized slavery as prison labor for corporate profit."
 primary_theme: "Politics"
 tags:
   - race

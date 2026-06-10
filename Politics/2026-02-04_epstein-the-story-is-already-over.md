@@ -1,9 +1,12 @@
 ---
 title: "Epstein: The Story Is Already Over"
+aliases:
+  - "Epstein: The Story Is Already Over"
 author: "Justin Scott"
 date: 2026-02-04
 source: "https://cypherj.substack.com/p/epstein-the-story-is-already-over"
 word_count: 482
+summary: "Disclosure without structural redesign stabilizes the system; the Epstein files teach survival, not justice."
 primary_theme: "Politics"
 tags:
   - politics

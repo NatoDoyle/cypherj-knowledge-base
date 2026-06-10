@@ -1,10 +1,13 @@
 ---
 title: "Nobody Deserves to Die"
+aliases:
+  - "Nobody Deserves to Die"
 subtitle: "A General Analysis on Death Sentiments"
 author: "Justin Scott"
 date: 2025-09-11
 source: "https://cypherj.substack.com/p/nobody-deserves-to-die"
 word_count: 380
+summary: "Collapse does not spare those welded to distortion regardless of sympathy or legacy."
 primary_theme: "Spirituality"
 tags:
   - faith

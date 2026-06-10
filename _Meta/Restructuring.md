@@ -15,6 +15,12 @@ Restructuring is Justin Scott's term for the **process of dismantling trauma-roo
 
 ## Essays Referencing This Concept
 
+- [[2026-05-23_your-parents-didnt-date-under-these|Your Parents Didn’t Date Under These Conditions]] — modern intimacy demands capacity, which is developmental
+- [[2026-05-15_finding-your-soulmate|Finding Your Soulmate]] — using destiny to avoid developing relationship capacity
+- [[2026-05-10_what-is-a-healed-person|What Is A "Healed" Person?]] — healed = a life no longer organized around avoiding pain
+- [[2026-04-30_prosthetic-relationships|"Prosthetic" Relationships]] — rebuilding the functions you outsourced to a partner
+- [[2026-04-30_missing-someone-is-not-evidence|Missing Someone Is Not Evidence]] — healing begins when you rebuild what you outsourced
+- [[2026-04-26_the-broken-man|The Broken Man]] — staying instead of outsourcing the unhealed boy to others
 - [[2026-04-16_self-consciousness-the-mirror-system|Self-Consciousness: The Mirror System & Mirror Disaster]] — real loosening requires contact with the present, not more introspection
 - [[2026-04-05_the-performative-man|The Performative Man]] — dropping performance as restructuring; letting the constructed man rest
 - [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — healing requires feeling abandonment without turning the child into the answer
@@ -26,3 +32,4 @@ Restructuring is Justin Scott's term for the **process of dismantling trauma-roo
 - [[Entropy]] — anti-restructuring behaviors are entropy made behavioral
 - [[Self-Erasure]] — a form of anti-restructuring where identity itself is abandoned
 - [[Proto-Fears]] — the foundational wounds that anti-restructuring behaviors protect
+- [[Relational Architecture]] — capacity is developmental; the relational basin expands only as truth becomes survivable

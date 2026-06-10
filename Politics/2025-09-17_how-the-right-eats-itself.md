@@ -1,10 +1,13 @@
 ---
 title: "How the Right Eats Itself"
+aliases:
+  - "How the Right Eats Itself"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-09-17
 source: "https://cypherj.substack.com/p/how-the-right-eats-itself"
 word_count: 593
+summary: "The right inherited apocalyptic fear as faith and now worships collapse as gospel."
 primary_theme: "Politics"
 tags:
   - politics

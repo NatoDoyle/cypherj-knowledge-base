@@ -1,10 +1,13 @@
 ---
 title: "Republican Survivorship Bias"
+aliases:
+  - "Republican Survivorship Bias"
 subtitle: "The One System Keeping The Party Running"
 author: "Justin Scott"
 date: 2025-12-05
 source: "https://cypherj.substack.com/p/republican-survivorship-bias"
 word_count: 385
+summary: "Republican policy treats voter death as a renewal filter; every law adjusts mortality rates."
 primary_theme: "Politics"
 tags:
   - politics

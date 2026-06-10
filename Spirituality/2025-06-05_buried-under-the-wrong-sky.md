@@ -1,9 +1,12 @@
 ---
 title: "Buried Under the Wrong Sky"
+aliases:
+  - "Buried Under the Wrong Sky"
 author: "Justin Scott"
 date: 2025-06-05
 source: "https://cypherj.substack.com/p/buried-under-the-wrong-sky"
 word_count: 422
+summary: "A fiction tracing the erasure of goddess-centered culture by patriarchal conquest."
 primary_theme: "Spirituality"
 tags:
   - femininity

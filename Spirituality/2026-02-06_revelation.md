@@ -1,10 +1,13 @@
 ---
 title: "Revelation"
+aliases:
+  - "Revelation"
 subtitle: "A Systems Decoding"
 author: "Justin Scott"
 date: 2026-02-06
 source: "https://cypherj.substack.com/p/revelation"
 word_count: 1590
+summary: "Revelation is a systems manual describing civilization's extraction cycle, not a divine revenge fantasy."
 primary_theme: "Spirituality"
 tags:
   - faith

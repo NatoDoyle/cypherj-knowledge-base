@@ -1,10 +1,13 @@
 ---
-title: "The "Cultural C.I.A." Myth"
+title: "The \"Cultural C.I.A.\" Myth"
+aliases:
+  - "The \"Cultural C.I.A.\" Myth"
 subtitle: "Understanding Black Community Wounds and Healing"
 author: "Justin Scott"
 date: 2025-05-06
 source: "https://cypherj.substack.com/p/the-cultural-cia-myth"
 word_count: 840
+summary: "The Cultural CIA myth reflects real sabotage history and internalized systemic dysfunction."
 primary_theme: "Race & Culture"
 tags:
   - narrative

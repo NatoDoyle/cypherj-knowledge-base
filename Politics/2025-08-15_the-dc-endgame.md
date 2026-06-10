@@ -1,10 +1,13 @@
 ---
 title: "The D.C Endgame"
+aliases:
+  - "The D.C Endgame"
 subtitle: "The Crises Are the Cover"
 author: "Justin Scott"
 date: 2025-08-15
 source: "https://cypherj.substack.com/p/the-dc-endgame"
 word_count: 773
+summary: "ICE and crises are building a federalized domestic control grid city by city."
 primary_theme: "Politics"
 tags:
   - politics

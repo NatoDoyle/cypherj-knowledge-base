@@ -1,10 +1,13 @@
 ---
 title: "What It Means To Be Wanted"
+aliases:
+  - "What It Means To Be Wanted"
 subtitle: "& Why Fixing Doesn't Work"
 author: "Justin Scott"
 date: 2026-01-23
 source: "https://cypherj.substack.com/p/what-it-means-to-be-wanted"
 word_count: 812
+summary: "Being wanted means someone stays when you stop performing, not when you keep producing."
 primary_theme: "Relationships"
 tags:
   - relationships

@@ -15,6 +15,8 @@ The Light-Identity Unified Theory is Justin Scott's most ambitious framework —
 
 ## Essays Referencing This Concept
 
+- [[2026-05-11_the-false-observor|The False Observer]] — awareness modeling how it appears; render replacing direct experience
+- [[2026-05-07_the-recognition-cascade|The Recognition Cascade]] — awareness as field, the aperture, dimensional compression into sequence
 - [[2026-01-18_the-lie-of-consensus-reality|The Lie of Consensus Reality]] — LIUT extended into epistemology (14,241 words)
 - [[2025-09-05_beyond-schrodingers-cat-solutions|Beyond Schrodinger's Cat: Solutions to Paradoxes]] — LIUT applied to quantum paradoxes
 
@@ -23,3 +25,5 @@ The Light-Identity Unified Theory is Justin Scott's most ambitious framework —
 - [[Entropy]] — reframed as dimensional transfer function within LIUT
 - [[Proto-Fears]] — distortions of focused awareness
 - [[Parallel Systems]] — survival architectures as light bent by trauma
+- [[The False Observer]] — awareness mistaking its render for the light; the mirror becomes the lens
+- [[Recognition Cascade]] — builds on the LIUT substrate: awareness as field, the aperture, dimensional compression into sequence

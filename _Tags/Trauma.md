@@ -9,8 +9,14 @@ tag: "trauma"
 
 For Justin Scott, trauma is not defined by dramatic events but by the absence of being met — the silence after you tried to share, the eye roll when you got too excited, the childhood where nothing happened because nothing real was ever acknowledged. His framework rejects the binary of "abuse vs. good childhood," insisting that being managed, recruited into emotional service, or praised for shrinking constitutes its own devastation. A recurring argument is that trauma disguises itself as competence: the family peacekeeper who shattered so others could stay intact, the professional whose discipline is really captivity, the "mature" child who simply never felt safe enough to be young. Scott consistently locates the wound not in what was done to you, but in how your selfhood was interrupted — the moment you adjusted mid-sentence, mid-feeling, mid-self to survive someone else's reaction. Trauma, in his view, does not live in memory alone; it lives in the body's learned conviction that self-expression is dangerous, and it replays every time you reach the exact edge where you once disappeared.
 
-## Essays (50)
+## Essays (56)
 
+- [[2026-06-02_high-end-relationship-skills-co-regulation|High-End Relationship Skills: Co-Regulation]] — Most people respond to what they think distress means, not the distress; co-regulation is staying present until the other person feels encountered — people calm down because they stop feeling alone with the question.
+- [[2026-05-27_the-fear-of-being-misunderstood|The Fear of Being Misunderstood]] — The fear of being misunderstood is a survival adaptation: you stop talking to the person and start talking to simulations of yourself in their head.
+- [[2026-05-10_what-is-a-healed-person|What Is A "Healed" Person?]] — A healed person isn't someone pain can't reach; healing went infinite because people tried to become untouchable. Healed = a life no longer organized around avoiding pain.
+- [[2026-05-07_the-cost-of-self-blame|The Cost of Self-Blame]] — Self-blame isn't self-hatred — it's living in third person until you become a surveillance system aimed at yourself, mistaking purification for healing.
+- [[2026-04-26_the-broken-man|The Broken Man]] — The broken man is productive self-abandonment: he outsources his unhealed boy to women until he learns to stay. Pain explains him; it does not absolve him.
+- [[2026-04-23_being-raised-vs-being-formed|Being Raised vs. Being Formed]] — Being raised gives you a self to return to; being formed means assembling a kept version of yourself — you were left before you ever arrived.
 - [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — Abandonment-wounded parents turn children into anchors, teaching them to erase themselves to prevent departure.
 - [[2026-03-24_the-mechanism-of-terror|The Mechanism of Terror]] — Terror is a collapsed interpretive system that assigns one meaning to every signal.
 - [[2026-03-19_boundaries-dont-protect-you|Boundaries Don't Protect You]] — Boundaries reveal alignment rather than prevent harm, rebuilding selfhood lost in childhood.

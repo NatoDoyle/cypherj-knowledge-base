@@ -1,10 +1,13 @@
 ---
 title: "Trauma In A Suit"
+aliases:
+  - "Trauma In A Suit"
 subtitle: "Respectability didn't save you. It just made your pain wear heels."
 author: "Justin Scott"
 date: 2025-06-05
 source: "https://cypherj.substack.com/p/trauma-in-a-suit"
 word_count: 349
+summary: "Respectability politics disguises unhealed trauma as professional excellence."
 primary_theme: "Psychology"
 tags:
   - trauma

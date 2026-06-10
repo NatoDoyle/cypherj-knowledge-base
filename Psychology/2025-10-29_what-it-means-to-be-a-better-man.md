@@ -1,9 +1,12 @@
 ---
-title: "What It Means To Be A "Better Man""
+title: "What It Means To Be A \"Better Man\""
+aliases:
+  - "What It Means To Be A \"Better Man\""
 author: "Justin Scott"
 date: 2025-10-29
 source: "https://cypherj.substack.com/p/what-it-means-to-be-a-better-man"
 word_count: 433
+summary: "Being a better man means refusing the coffin of usefulness and staying fully human."
 primary_theme: "Psychology"
 tags:
   - masculinity

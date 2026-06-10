@@ -1,10 +1,13 @@
 ---
 title: "The Invisible Chain Economy"
+aliases:
+  - "The Invisible Chain Economy"
 subtitle: "The Velvet Collar"
 author: "Justin Scott"
 date: 2025-05-01
 source: "https://cypherj.substack.com/p/the-invisible-chain-economy"
 word_count: 594
+summary: "Catalogs soft-power tools the state uses to secure obedience without overt violence."
 primary_theme: "Politics"
 tags:
   - capitalism

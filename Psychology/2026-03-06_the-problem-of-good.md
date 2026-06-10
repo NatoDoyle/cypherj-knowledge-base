@@ -1,9 +1,12 @@
 ---
-title: "The Problem of "Good""
+title: "The Problem of \"Good\""
+aliases:
+  - "The Problem of \"Good\""
 author: "Justin Scott"
 date: 2026-03-06
 source: "https://cypherj.substack.com/p/the-problem-of-good"
 word_count: 497
+summary: "Pursuing 'goodness' delays clarity; personality becomes a buffer against honest recognition."
 primary_theme: "Psychology"
 tags:
   - identity

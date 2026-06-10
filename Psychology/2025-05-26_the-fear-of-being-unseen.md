@@ -1,10 +1,14 @@
 ---
 title: "The Fear of Being Unseen"
+aliases:
+  - "The Fear of Being Unseen"
 author: "Justin Scott"
 date: 2025-05-26
 source: "https://cypherj.substack.com/p/the-fear-of-being-unseen"
 word_count: 330
+summary: "Performative visibility masks the proto-fear of erasure learned through conditional love."
 primary_theme: "Psychology"
+series: "The Fear of..."
 tags:
   - fear
   - identity

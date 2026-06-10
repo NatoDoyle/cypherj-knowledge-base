@@ -1,10 +1,13 @@
 ---
 title: "Narrative Warfare"
+aliases:
+  - "Narrative Warfare"
 subtitle: "The first battlefield is the story. If you lose that, they never need to fire a shot."
 author: "Justin Scott"
 date: 2025-06-11
 source: "https://cypherj.substack.com/p/narrative-warfare"
 word_count: 394
+summary: "Defines narrative warfare: controlling the story before opponents frame it against you."
 primary_theme: "Frameworks"
 tags:
   - narrative

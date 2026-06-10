@@ -1,10 +1,13 @@
 ---
-title: ""Not Enough""
+title: "\"Not Enough\""
+aliases:
+  - "\"Not Enough\""
 subtitle: "Oldest Trick In The Book"
 author: "Justin Scott"
 date: 2025-09-05
 source: "https://cypherj.substack.com/p/not-enough"
 word_count: 292
+summary: "\"Not enough\" was never your truth; it was camouflage for someone else's emptiness."
 primary_theme: "Psychology"
 tags:
   - trauma

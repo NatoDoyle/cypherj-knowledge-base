@@ -1,9 +1,12 @@
 ---
 title: "Women Don't Feel Safe"
+aliases:
+  - "Women Don't Feel Safe"
 author: "Justin Scott"
 date: 2025-12-01
 source: "https://cypherj.substack.com/p/women-dont-feel-safe"
 word_count: 489
+summary: "Women's unsafety and men's shame are parallel survival systems that must be bridged."
 primary_theme: "Relationships"
 tags:
   - relationships

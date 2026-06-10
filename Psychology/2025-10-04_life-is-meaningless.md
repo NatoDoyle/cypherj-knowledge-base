@@ -1,10 +1,13 @@
 ---
-title: ""Life Is Meaningless""
+title: "\"Life Is Meaningless\""
+aliases:
+  - "\"Life Is Meaningless\""
 subtitle: "(And That's Where You Begin)"
 author: "Justin Scott"
 date: 2025-10-04
 source: "https://cypherj.substack.com/p/life-is-meaningless"
 word_count: 440
+summary: "Meaninglessness is not failure but the unveiling of awareness beneath collapsed identity."
 primary_theme: "Psychology"
 tags:
   - healing

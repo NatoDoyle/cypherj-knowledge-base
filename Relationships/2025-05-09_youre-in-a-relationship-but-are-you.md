@@ -1,9 +1,12 @@
 ---
-title: ""You're in a Relationship. But Are You in a Commitment?""
+title: "\"You're in a Relationship. But Are You in a Commitment?\""
+aliases:
+  - "\"You're in a Relationship. But Are You in a Commitment?\""
 author: "Justin Scott"
 date: 2025-05-09
 source: "https://cypherj.substack.com/p/youre-in-a-relationship-but-are-you"
 word_count: 323
+summary: "True commitment is daily growth together, not contractual fear management."
 primary_theme: "Relationships"
 tags:
   - relationships

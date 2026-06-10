@@ -1,9 +1,12 @@
 ---
 title: "Diddy & The Boundary Of Black Freedom"
+aliases:
+  - "Diddy & The Boundary Of Black Freedom"
 author: "Justin Scott"
 date: 2025-12-27
 source: "https://cypherj.substack.com/p/diddy-and-the-boundary-of-black-freedom"
 word_count: 896
+summary: "Black men cannot coordinate safety enforcement without criminalization, enabling powerful predators."
 primary_theme: "Race & Culture"
 tags:
   - race

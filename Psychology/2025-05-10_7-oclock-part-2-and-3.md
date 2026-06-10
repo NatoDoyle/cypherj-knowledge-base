@@ -1,10 +1,14 @@
 ---
 title: "7 O'Clock: Part 2 & 3"
+aliases:
+  - "7 O'Clock: Part 2 & 3"
 author: "Justin Scott"
 date: 2025-05-10
 source: "https://cypherj.substack.com/p/7-oclock-part-2-and-3"
 word_count: 1096
+summary: "A fiction showing media dependency as surrogate identity after emotional collapse."
 primary_theme: "Psychology"
+series: "7 O'Clock"
 tags:
   - fear
   - dissociation

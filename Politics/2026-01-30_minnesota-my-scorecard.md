@@ -1,10 +1,13 @@
 ---
 title: "Minnesota: My Scorecard"
+aliases:
+  - "Minnesota: My Scorecard"
 subtitle: "A Diagnostic on Minnesota"
 author: "Justin Scott"
 date: 2026-01-30
 source: "https://cypherj.substack.com/p/minnesota-my-scorecard"
 word_count: 855
+summary: "Minnesota proved the system absorbs protest and death without losing participation or legitimacy."
 primary_theme: "Politics"
 tags:
   - systems

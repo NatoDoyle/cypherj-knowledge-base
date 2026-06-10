@@ -1,9 +1,12 @@
 ---
 title: "She Never Got to Unclench."
+aliases:
+  - "She Never Got to Unclench."
 author: "Justin Scott"
 date: 2025-06-07
 source: "https://cypherj.substack.com/p/she-never-got-to-unclench"
 word_count: 759
+summary: "Black women's praised strength is actually survival armor that blocks rest and healing."
 primary_theme: "Race & Culture"
 tags:
   - femininity

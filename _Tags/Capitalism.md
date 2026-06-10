@@ -9,8 +9,11 @@ tag: "capitalism"
 
 Scott frames capitalism not as an economic system but as a logic that colonizes every domain of human life — desire, friendship, labor, and love itself. In "Sexualization Is Capitalism," he argues that market logic (be visible, be legible, be comparable) has invaded attraction, reducing bodies to desirability packaging and destroying the mystery that eroticism requires. In "The Illusion of Romance," he names modern romance as "Empire Mutated" — affection measured through receipts, presence through price tags, love reduced to a subscription service. Friendship suffers the same conversion: capitalism has made devotional friendship nearly impossible by training people to treat connection as networking and measure it in efficiency. His essay on "livable wage" distills his core critique — the phrase itself is "gentrified," a polite form of economic violence designed to keep workers in the gray zone between breakdown and submission. What people actually want is not survival but what he calls a "soul-compatible economy": time sovereignty, narrative dignity, gentle consequences, and the right to matter without producing. Healing and wholeness, in his view, are inherently anti-capitalist because they cannot be extracted.
 
-## Essays (22)
+## Essays (25)
 
+- [[2026-05-25_does-america-actually-need-your-money|Does America Actually Need Your Money Anymore?]] — When GDP rises through extraction without broad integration, the system stops needing ordinary people to thrive — and democracy starts mutating.
+- [[2026-05-23_your-parents-didnt-date-under-these|Your Parents Didn’t Date Under These Conditions]] — Old dating scripts were built on vanished economic and social structures; modern dating demands capacity, not game, and people blame themselves for failing systems they were never built for.
+- [[2026-05-17_the-point-of-life|The Point of Life]] — There's no point to life — you're a point in life; spectator mode and "the arrangement" turn ordinary existence into a trial you keep failing.
 - [[2026-03-05_sexualization-is-capitalism|Sexualization Is Capitalism]] — Sexualization applies market logic to bodies, destroying the mystery that real eroticism requires.
 - [[2026-02-28_the-epstein-act-a-policy-method-designed|The Epstein Act: A Policy Method Designed To Starve Predators]] — A policy framework using pattern detection and economic pressure to prevent predators from hiding.
 - [[2026-02-10_were-not-angry-enough|WE'RE NOT ANGRY ENOUGH]] — The system absorbs anger indefinitely; only withdrawal of belief can starve it.

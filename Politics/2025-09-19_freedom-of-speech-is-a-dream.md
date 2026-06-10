@@ -1,10 +1,13 @@
 ---
 title: "Freedom Of Speech Is A Dream"
+aliases:
+  - "Freedom Of Speech Is A Dream"
 subtitle: "Damn Near A Wish Upon A Star"
 author: "Justin Scott"
 date: 2025-09-19
 source: "https://cypherj.substack.com/p/freedom-of-speech-is-a-dream"
 word_count: 494
+summary: "Free speech was never an enforced right; it has always been a costly possibility."
 primary_theme: "Politics"
 tags:
   - politics

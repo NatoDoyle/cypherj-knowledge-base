@@ -1,10 +1,13 @@
 ---
 title: "Belief vs. Faith: The Reality of Dissociation"
+aliases:
+  - "Belief vs. Faith: The Reality of Dissociation"
 subtitle: "Expanded Discussion"
 author: "Justin Scott"
 date: 2025-12-09
 source: "https://cypherj.substack.com/p/belief-vs-faith-the-reality-of-dissociation"
 word_count: 1206
+summary: "Belief is dissociation disguised as devotion; faith is raw contact with present reality."
 primary_theme: "Spirituality"
 tags:
   - faith

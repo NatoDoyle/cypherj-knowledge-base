@@ -1,10 +1,14 @@
 ---
 title: "The Fear Of Chaos"
+aliases:
+  - "The Fear Of Chaos"
 author: "Justin Scott"
 date: 2025-05-26
 source: "https://cypherj.substack.com/p/the-fear-of-chaos"
 word_count: 313
+summary: "Control obsession is a trauma response to childhood unpredictability, not real strength."
 primary_theme: "Psychology"
+series: "The Fear of..."
 tags:
   - fear
   - trauma

@@ -1,10 +1,13 @@
 ---
 title: "We're At War With Iran"
+aliases:
+  - "We're At War With Iran"
 subtitle: "The Psychological Front of the Conflict"
 author: "Justin Scott"
 date: 2026-03-03
 source: "https://cypherj.substack.com/p/were-at-war-with-iran"
 word_count: 678
+summary: "The Iran war's greatest domestic threat is narrative compression that simplifies public consent."
 primary_theme: "Politics"
 tags:
   - geopolitics

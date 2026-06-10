@@ -1,10 +1,13 @@
 ---
-title: "The Phrase "Livable Wage""
+title: "The Phrase \"Livable Wage\""
+aliases:
+  - "The Phrase \"Livable Wage\""
 subtitle: "Video Notes"
 author: "Justin Scott"
 date: 2025-07-14
 source: "https://cypherj.substack.com/p/the-phrase-livable-wage"
 word_count: 698
+summary: "\"Livable wage\" is gentrified language masking systemic economic violence against workers."
 primary_theme: "Politics"
 tags:
   - capitalism

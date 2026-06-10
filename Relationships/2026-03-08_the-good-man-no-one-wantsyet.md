@@ -1,10 +1,13 @@
 ---
 title: "The Good Man No One Wants(Yet)"
+aliases:
+  - "The Good Man No One Wants(Yet)"
 subtitle: "A Conversation Around a Specific Type of Good Man"
 author: "Justin Scott"
 date: 2026-03-08
 source: "https://cypherj.substack.com/p/the-good-man-no-one-wantsyet"
 word_count: 636
+summary: "Good men struggle romantically because they suppress vitality in favor of reliability."
 primary_theme: "Relationships"
 tags:
   - masculinity

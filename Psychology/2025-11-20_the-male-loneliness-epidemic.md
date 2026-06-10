@@ -1,10 +1,13 @@
 ---
 title: "The Male Loneliness Epidemic"
+aliases:
+  - "The Male Loneliness Epidemic"
 subtitle: "The Men Robbed of Themselves"
 author: "Justin Scott"
 date: 2025-11-20
 source: "https://cypherj.substack.com/p/the-male-loneliness-epidemic"
 word_count: 685
+summary: "Men aren't lonely because of women; they were robbed of emotional selfhood as boys."
 primary_theme: "Psychology"
 tags:
   - masculinity

@@ -1,10 +1,13 @@
 ---
 title: "Unconditional Love vs. Conditional Love"
+aliases:
+  - "Unconditional Love vs. Conditional Love"
 subtitle: "Video Notes (They'll be more on this topic)"
 author: "Justin Scott"
 date: 2025-07-19
 source: "https://cypherj.substack.com/p/unconditional-love-vs-conditional"
 word_count: 435
+summary: "Unconditional love isn't absence of standards; it's safety to be human without punishment."
 primary_theme: "Relationships"
 tags:
   - relationships

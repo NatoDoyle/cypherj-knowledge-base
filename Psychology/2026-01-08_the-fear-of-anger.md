@@ -1,11 +1,15 @@
 ---
 title: "The Fear Of Anger"
+aliases:
+  - "The Fear Of Anger"
 subtitle: "One of the hardest things to overcome"
 author: "Justin Scott"
 date: 2026-01-08
 source: "https://cypherj.substack.com/p/the-fear-of-anger"
 word_count: 569
+summary: "You fear anger not for its destruction but for the clarity and grief it forces you to face."
 primary_theme: "Psychology"
+series: "The Fear of..."
 tags:
   - fear
   - trauma

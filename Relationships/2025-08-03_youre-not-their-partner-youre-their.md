@@ -1,10 +1,13 @@
 ---
 title: "You're Not Their Partner. You're Their Therapist."
+aliases:
+  - "You're Not Their Partner. You're Their Therapist."
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-08-03
 source: "https://cypherj.substack.com/p/youre-not-their-partner-youre-their"
 word_count: 384
+summary: "You became their emotional case manager, not their partner, and lost yourself."
 primary_theme: "Relationships"
 tags:
   - relationships

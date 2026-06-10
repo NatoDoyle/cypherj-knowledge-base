@@ -1,10 +1,13 @@
 ---
-title: "Stop Being "The Bigger Person" Start Being the Honest One"
+title: "Stop Being \"The Bigger Person\" Start Being the Honest One"
+aliases:
+  - "Stop Being \"The Bigger Person\" Start Being the Honest One"
 subtitle: "Video Transcript."
 author: "Justin Scott"
 date: 2025-08-03
 source: "https://cypherj.substack.com/p/stop-being-the-bigger-person-start"
 word_count: 565
+summary: "Being the bigger person was never healing; it was performing silence for others' comfort."
 primary_theme: "Psychology"
 tags:
   - trauma

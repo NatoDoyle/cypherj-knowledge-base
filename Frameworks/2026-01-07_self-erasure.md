@@ -1,10 +1,13 @@
 ---
 title: "Self-Erasure"
+aliases:
+  - "Self-Erasure"
 subtitle: "Losing Yourself Slowly"
 author: "Justin Scott"
 date: 2026-01-07
 source: "https://cypherj.substack.com/p/self-erasure"
 word_count: 900
+summary: "Self-erasure is the adaptive disappearance of identity when survival replaces presence."
 primary_theme: "Frameworks"
 tags:
   - identity

@@ -1,10 +1,13 @@
 ---
 title: "Parenting From Abandonment"
+aliases:
+  - "Parenting From Abandonment"
 subtitle: "You weren't raised. You were needed."
 author: "Justin Scott"
 date: 2026-03-26
 source: "https://cypherj.substack.com/p/parenting-from-abandonment"
 word_count: 920
+summary: "Abandonment-wounded parents turn children into anchors, teaching them to erase themselves to prevent departure."
 primary_theme: "Psychology"
 tags:
   - trauma

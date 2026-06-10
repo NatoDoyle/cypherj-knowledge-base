@@ -1,10 +1,13 @@
 ---
 title: "Epstein Is Not A Meme"
+aliases:
+  - "Epstein Is Not A Meme"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-07-26
 source: "https://cypherj.substack.com/p/epstein-is-not-a-meme"
 word_count: 283
+summary: "Memeing Epstein lets the architects of abuse hide behind the spectacle."
 primary_theme: "Politics"
 tags:
   - politics

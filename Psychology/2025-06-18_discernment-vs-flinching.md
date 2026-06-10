@@ -1,9 +1,12 @@
 ---
 title: "Discernment vs. Flinching"
+aliases:
+  - "Discernment vs. Flinching"
 author: "Justin Scott"
 date: 2025-06-18
 source: "https://cypherj.substack.com/p/discernment-vs-flinching"
 word_count: 603
+summary: "Trauma responses masquerade as discernment; real discernment comes from peace, not flinching."
 primary_theme: "Psychology"
 tags:
   - trauma

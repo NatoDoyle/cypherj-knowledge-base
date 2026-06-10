@@ -1,10 +1,13 @@
 ---
 title: "Relational Self-Erasure Across Men and Women"
+aliases:
+  - "Relational Self-Erasure Across Men and Women"
 subtitle: "One heartbreak two people"
 author: "Justin Scott"
 date: 2025-12-29
 source: "https://cypherj.substack.com/p/relational-self-erasure-across-men"
 word_count: 1323
+summary: "Relationships fail when one person rushes the moment and the other evacuates from it."
 primary_theme: "Relationships"
 tags:
   - relationships

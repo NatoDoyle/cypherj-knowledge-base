@@ -1,9 +1,12 @@
 ---
-title: ""Illegal" Is a Weaponized Word"
+title: "\"Illegal\" Is a Weaponized Word"
+aliases:
+  - "\"Illegal\" Is a Weaponized Word"
 author: "Justin Scott"
 date: 2025-06-13
 source: "https://cypherj.substack.com/p/illegal-is-a-weaponized-word"
 word_count: 491
+summary: "The word 'illegal' weaponizes law to dehumanize people the economy depends on."
 primary_theme: "Politics"
 tags:
   - politics

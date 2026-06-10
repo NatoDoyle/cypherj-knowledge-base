@@ -1,10 +1,13 @@
 ---
 title: "High Standards?"
+aliases:
+  - "High Standards?"
 subtitle: "Video Transcript"
 author: "Justin Scott"
 date: 2025-08-06
 source: "https://cypherj.substack.com/p/high-standards"
 word_count: 488
+summary: "Your high standards are not boundaries; they are walls built from abandonment wounds."
 primary_theme: "Relationships"
 tags:
   - relationships

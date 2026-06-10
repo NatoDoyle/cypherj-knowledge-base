@@ -9,8 +9,11 @@ tag: "faith"
 
 Scott draws a sharp, clinical line between belief and faith, casting most of what organized religion calls devotion as sophisticated dissociation. Belief, in his framework, is a nervous-system adaptation — "distance dressed up as devotion" — that floods the mind with meaning so one never has to risk actual contact with reality. Faith, by contrast, is raw presence: confrontational, uncomfortable, and impossible to perform. He reimagines sin not as moral failure but as "separation with a marketing plan," and reframes Jesus not as a man to worship but as the event through which "Presence walked free and absence became illegal." Institutional religion becomes the villain in this telling — a franchise that "caged God in a cross" and "stitched the torn veil back together with stained glass." Worship itself stands accused of becoming "sacred avoidance," a panic room where grief leaks out only when the music allows it. Scott's invitation is to leave not faith but "the theft of it," insisting God is not offended by deconstruction but relieved.
 
-## Essays (21)
+## Essays (24)
 
+- [[2026-05-17_the-point-of-life|The Point of Life]] — There's no point to life — you're a point in life; spectator mode and "the arrangement" turn ordinary existence into a trial you keep failing.
+- [[2026-05-14_the-spiritual-split|The Spiritual Split]] — The subject-object split: the False Observer converts existence into render management until even prayer becomes self-watching.
+- [[2026-05-11_the-false-observor|The False Observer]] — The cognitive structure that substitutes the representation of experience for experience itself — its installation, history, consequences, and counterforce.
 - [[2026-02-06_revelation|Revelation]] — Revelation is a systems manual describing civilization's extraction cycle, not a divine revenge fantasy.
 - [[2026-02-04_the-world-crisis|The World Crisis]] — Civilization is a replacement engine converting humanity into function via a substrate-agnostic throughput attractor.
 - [[2026-01-18_the-lie-of-consensus-reality|The Lie of Consensus Reality]] — Consensus reality is coordinated rendering mistaken for objective truth; only awareness and patterns exist.

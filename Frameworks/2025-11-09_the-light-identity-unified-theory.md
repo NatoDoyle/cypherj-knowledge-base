@@ -1,10 +1,13 @@
 ---
 title: "THE LIGHT-IDENTITY UNIFIED THEORY"
+aliases:
+  - "THE LIGHT-IDENTITY UNIFIED THEORY"
 subtitle: "A Metaphysical Hypothesis on the Nature of Reality"
 author: "Justin Scott"
 date: 2025-11-09
 source: "https://cypherj.substack.com/p/the-light-identity-unified-theory"
 word_count: 3633
+summary: "Consciousness is light focused through a metabolic lens; death returns awareness to infinity."
 primary_theme: "Frameworks"
 tags:
   - identity

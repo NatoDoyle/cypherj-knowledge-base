@@ -1,10 +1,13 @@
 ---
 title: "The Gods We Create When We're Afraid"
+aliases:
+  - "The Gods We Create When We're Afraid"
 subtitle: "The Divine Projections"
 author: "Justin Scott"
 date: 2025-05-12
 source: "https://cypherj.substack.com/p/the-gods-we-create-when-were-afraid"
 word_count: 531
+summary: "Our images of God are trauma projections that distort worship into performance."
 primary_theme: "Spirituality"
 tags:
   - faith

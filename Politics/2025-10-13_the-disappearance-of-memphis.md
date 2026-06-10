@@ -1,10 +1,13 @@
 ---
 title: "The Disappearance of Memphis"
+aliases:
+  - "The Disappearance of Memphis"
 subtitle: "The City In A News Vacuum"
 author: "Justin Scott"
 date: 2025-10-13
 source: "https://cypherj.substack.com/p/the-disappearance-of-memphis"
 word_count: 515
+summary: "Memphis vanished from news coverage as fascism rehearses through silence and paperwork."
 primary_theme: "Politics"
 tags:
   - politics

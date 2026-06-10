@@ -1,10 +1,13 @@
 ---
 title: "What is \"Cheating?\" & No It Doesn't Start With Sex"
+aliases:
+  - "What is \"Cheating?\" & No It Doesn't Start With Sex"
 subtitle: "What it means to cheat Love, not just your partner."
 author: "Justin Scott"
 date: 2026-03-29
 source: "https://cypherj.substack.com/p/what-is-cheating-and-no-it-doesnt"
 word_count: 479
+summary: "Cheating begins when someone stays past their truth, not when they touch someone else."
 primary_theme: "Relationships"
 tags:
   - relationships

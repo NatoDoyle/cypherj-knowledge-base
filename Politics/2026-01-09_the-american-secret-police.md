@@ -1,10 +1,13 @@
 ---
 title: "The American Secret Police"
+aliases:
+  - "The American Secret Police"
 subtitle: "No They Aren't Like Germany's"
 author: "Justin Scott"
 date: 2026-01-09
 source: "https://cypherj.substack.com/p/the-american-secret-police"
 word_count: 730
+summary: "American secret police operate through administrative eligibility systems, not theatrical force."
 primary_theme: "Politics"
 tags:
   - systems

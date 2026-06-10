@@ -6,7 +6,64 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Psychology",
+      "color": {
+        "a": 1,
+        "rgb": 5082623
+      }
+    },
+    {
+      "query": "path:Relationships",
+      "color": {
+        "a": 1,
+        "rgb": 16735631
+      }
+    },
+    {
+      "query": "path:Politics",
+      "color": {
+        "a": 1,
+        "rgb": 16747586
+      }
+    },
+    {
+      "query": "path:Spirituality",
+      "color": {
+        "a": 1,
+        "rgb": 16765286
+      }
+    },
+    {
+      "query": "path:Frameworks",
+      "color": {
+        "a": 1,
+        "rgb": 10251263
+      }
+    },
+    {
+      "query": "path:\"Race & Culture\"",
+      "color": {
+        "a": 1,
+        "rgb": 448160
+      }
+    },
+    {
+      "query": "path:_Meta",
+      "color": {
+        "a": 1,
+        "rgb": 11581636
+      }
+    },
+    {
+      "query": "path:_Tags",
+      "color": {
+        "a": 1,
+        "rgb": 7064439
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 0.6611271977893562,
+  "close": true
 }

@@ -14,6 +14,8 @@ In Justin Scott's framework, entropy is not the physics term borrowed casually �
 
 ## Essays Referencing This Concept
 
+- [[2026-05-25_does-america-actually-need-your-money|Does America Actually Need Your Money Anymore?]] — extraction without integration; throughput outliving the people
+- [[2026-05-07_the-recognition-cascade|The Recognition Cascade]] — the Hyper-Predatory Throughput Attractor and micro-abstraction drift
 - [[2026-02-06_revelation|Revelation]] — entropy as civilization's extraction cycle
 - [[2026-02-04_the-world-crisis|The World Crisis]] — entropy in the throughput attractor model
 - [[2026-01-18_the-lie-of-consensus-reality|The Lie of Consensus Reality]] — entropy as dimensional transfer function
@@ -30,3 +32,4 @@ In Justin Scott's framework, entropy is not the physics term borrowed casually �
 - [[Parallel Systems]] — the survival architectures that entropy generates (Maw, Keep, Flame, Thorn, Cog, Reverb, Prism, Pulse)
 - [[Self-Erasure]] — a personal manifestation of entropy: disappearing to manage unprocessed experience
 - [[Narrative Warfare]] — entropy is weaponized when narrative systems prevent integration
+- [[Recognition Cascade]] — Meaning Death and the Hyper-Predatory Throughput Attractor are entropy at civilizational scale

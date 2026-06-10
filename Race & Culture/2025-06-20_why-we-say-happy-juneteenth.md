@@ -1,9 +1,12 @@
 ---
-title: "Why we say "Happy" Juneteenth?"
+title: "Why we say \"Happy\" Juneteenth?"
+aliases:
+  - "Why we say \"Happy\" Juneteenth?"
 author: "Justin Scott"
 date: 2025-06-20
 source: "https://cypherj.substack.com/p/why-we-say-happy-juneteenth"
 word_count: 351
+summary: "Juneteenth celebrates the interruption of slavery's lie, not American generosity."
 primary_theme: "Race & Culture"
 tags:
   - race

@@ -1,10 +1,13 @@
 ---
 title: "The Mechanism of Terror"
+aliases:
+  - "The Mechanism of Terror"
 subtitle: "And The Room it starts in"
 author: "Justin Scott"
 date: 2026-03-24
 source: "https://cypherj.substack.com/p/the-mechanism-of-terror"
 word_count: 703
+summary: "Terror is a collapsed interpretive system that assigns one meaning to every signal."
 primary_theme: "Psychology"
 tags:
   - trauma

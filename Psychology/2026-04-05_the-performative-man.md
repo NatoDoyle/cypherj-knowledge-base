@@ -1,11 +1,15 @@
 ---
 title: "The Performative Man"
+aliases:
+  - "The Performative Man"
 subtitle: "Why even your growth still feels like work"
 author: "Justin Scott"
 date: 2026-04-05
 source: "https://cypherj.substack.com/p/the-performative-man"
 word_count: 1233
+summary: "Even a man's refined goodness can be performance; you can't optimize your way out of authoring yourself in real time."
 primary_theme: "Psychology"
+series: "The Performative Man/Woman"
 tags:
   - masculinity
   - identity

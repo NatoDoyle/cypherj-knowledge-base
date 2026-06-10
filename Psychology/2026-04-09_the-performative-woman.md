@@ -1,11 +1,15 @@
 ---
 title: "The Performative Woman"
+aliases:
+  - "The Performative Woman"
 subtitle: "A Life Graded Against Femininity"
 author: "Justin Scott"
 date: 2026-04-09
 source: "https://cypherj.substack.com/p/the-performative-woman"
 word_count: 1647
+summary: "Femininity became a social legibility gate; women carry a distortion field so the world can keep recognizing them without changing."
 primary_theme: "Psychology"
+series: "The Performative Man/Woman"
 tags:
   - femininity
   - identity
