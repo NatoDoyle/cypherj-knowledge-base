@@ -7,7 +7,7 @@ theme: "Psychology"
 
 Essays on trauma, healing, fear, self-patterns, emotional dynamics, and the mechanisms of dissociation.
 
-**59 essays**
+**64 essays**
 
 ## Essays
 
@@ -32,6 +32,7 @@ Essays on trauma, healing, fear, self-patterns, emotional dynamics, and the mech
 
 *What was installed before you had words — parentification, invisibility, and the difference between being raised and being assembled.*
 
+- [[2026-06-26_estranged-children|Estranged Children]] — Estranged children become historians of their own suffering, waiting for an apology or understanding to grant permission to live — but a relationship requires two people while understanding requires one; freedom isn't understanding the parent back into your life but refusing to make your existence conditional on a reconciliation that may never come, until the memory stops orbiting them and starts orbiting you.
 - [[2026-04-23_being-raised-vs-being-formed|Being Raised vs. Being Formed]] — Being raised gives you a self to return to; being formed means assembling a kept version of yourself — you were left before you ever arrived.
 - [[2026-03-26_parenting-from-abandonment|Parenting From Abandonment]] — Abandonment-wounded parents turn children into anchors, teaching them to erase themselves to prevent departure.
 - [[2025-07-11_you-kept-the-family-together|You Kept The Family Together]] — The family survived because you absorbed all the damage in silence.
@@ -43,6 +44,7 @@ Essays on trauma, healing, fear, self-patterns, emotional dynamics, and the mech
 
 *Undoing self-blame, charge, and closure-seeking — what recovery actually asks.*
 
+- [[2026-06-12_freedom-from-emotion|"Freedom From Emotion"]] — Wanting freedom from emotion is really wanting freedom from pain, but the wish is itself emotional — detachment is only attachment in disguise, and grief, heartbreak, and disappointment aren't proof that caring failed but evidence that you participated in reality at all.
 - [[2026-05-10_what-is-a-healed-person|What Is A "Healed" Person?]] — A healed person isn't someone pain can't reach; healing went infinite because people tried to become untouchable. Healed = a life no longer organized around avoiding pain.
 - [[2026-05-07_the-cost-of-self-blame|The Cost of Self-Blame]] — Self-blame isn't self-hatred — it's living in third person until you become a surveillance system aimed at yourself, mistaking purification for healing.
 - [[2026-03-19_boundaries-dont-protect-you|Boundaries Don't Protect You]] — Boundaries reveal alignment rather than prevent harm, rebuilding selfhood lost in childhood.
@@ -65,6 +67,8 @@ Essays on trauma, healing, fear, self-patterns, emotional dynamics, and the mech
 
 *The watched self versus the inhabited one — worth, goodness, and meaning beyond audition.*
 
+- [[2026-07-10_the-conversation-after-decenter-men|The Conversation after "Decenter Men"]] — 'Decenter men,' 'forget women, get money,' 'keep God at the center' are all versions of one question — what belongs at the center of a life — and they stop too early by naming only what to move away from; changing the object doesn't change the organization, so you escape one center only to build another prison that looked like freedom. The real question isn't what to decenter but what is worthy of organizing a life.
+- [[2026-07-07_messiah-objects|Messiah Objects]] — A Messiah object is anything — a relationship, money, a dream, even God — handed the impossible job of saving everything; the moment one thing becomes your salvation everything else perceptually disappears, the years vanish, and you stop encountering reality — the cure is differentiation, letting different wounds require different forms of care instead of demanding one answer to all things.
 - [[2026-03-30_the-illusion-of-self-worth|The Illusion of "Self-Worth"]] — 'Self-worth' is self-surveillance rebranded; worth cannot be calculated because you are not a measurement.
 - [[2026-03-06_the-problem-of-good|The Problem of "Good"]] — Pursuing 'goodness' delays clarity; personality becomes a buffer against honest recognition.
 - [[2026-01-08_am-i-and-i-am|Am I & I Am]] — Asking 'Am I?' keeps you absent; declaring 'I am' returns you to inhabiting your life.
@@ -78,6 +82,7 @@ Essays on trauma, healing, fear, self-patterns, emotional dynamics, and the mech
 
 *Manhood and womanhood as scripts — their costs, collapses, and what's underneath.*
 
+- [[2026-06-28_the-broken-woman|The Broken Woman]] — Brokenness isn't collapse but fragmentation — the broken woman survives by adapting so successfully that the self stops living from one center, and the deepest wound is learning to interrupt her own honesty before the world can; she needs not someone to tear down her walls but accompaniment: presence that asks for nothing but the truth and stays when it arrives.
 - [[2026-06-06_conditional-manhood|Conditional Manhood]] — Boys learn what disqualifies manhood before they learn what it is, so identity becomes an audition under perpetual review; secure manhood spends its energy developing character instead of proving membership.
 - [[2026-04-26_the-broken-man|The Broken Man]] — The broken man is productive self-abandonment: he outsources his unhealed boy to women until he learns to stay. Pain explains him; it does not absolve him.
 - [[2026-04-09_the-performative-woman|The Performative Woman]] — Femininity became a social legibility gate; women carry a distortion field so the world can keep recognizing them without changing.

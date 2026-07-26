@@ -1,6 +1,6 @@
 # Knowledge Base
 
-A curated, searchable Obsidian vault of **176 essays** by [Justin Scott](https://cypherj.substack.com) — organized by theme, tagged for cross-cutting discovery, and cross-linked around his recurring conceptual frameworks.
+A curated, searchable Obsidian vault of **194 essays** by [Justin Scott](https://cypherj.substack.com) — organized by theme, tagged for cross-cutting discovery, and cross-linked around his recurring conceptual frameworks.
 
 ## Start Here
 
@@ -43,12 +43,12 @@ The vault will load with all folders, tags, and links ready to go. Start with an
 
 ```
 knowledge_base/
-├── Psychology/           59 essays — trauma, fear, healing, emotional patterns
-├── Relationships/        43 essays — dating, intimacy, love, romantic dynamics
+├── Psychology/           64 essays — trauma, fear, healing, emotional patterns
+├── Relationships/        52 essays — dating, intimacy, love, romantic dynamics
 ├── Politics/             33 essays — government, geopolitics, rights, capitalism
-├── Spirituality/         17 essays — Christianity, theology, faith, metaphysics
+├── Spirituality/         19 essays — Christianity, theology, faith, metaphysics
 ├── Race & Culture/       11 essays — Black identity, systemic racism, cultural critique
-├── Frameworks/           13 essays — concept-defining essays (theoretical backbone)
+├── Frameworks/           15 essays — concept-defining essays (theoretical backbone)
 ├── _Meta/                MOCs, concept pages, INDEX, reading paths, glossary, timeline, series
 ├── _Tags/                15 tag pages with perspective summaries
 └── .obsidian/            vault config
@@ -69,7 +69,7 @@ Each theme folder has a corresponding MOC page in `_Meta/` that lists every essa
 
 ### Concept Pages
 
-Ten concept pages in `_Meta/` provide synthesized summaries of Justin's recurring frameworks, plus links to every essay that references the concept:
+Eleven concept pages in `_Meta/` provide synthesized summaries of Justin's recurring frameworks, plus links to every essay that references the concept:
 
 | Concept | Description |
 |---------|-------------|
@@ -83,6 +83,7 @@ Ten concept pages in `_Meta/` provide synthesized summaries of Justin's recurrin
 | [[The False Observer]] | Awareness substituting the representation of experience for experience itself |
 | [[Recognition Cascade]] | The unified macro-framework: five layers, the False Observer, and Meaning Death |
 | [[Relational Architecture]] | What relationships are: the Reality, Love, and Convergence principles |
+| [[The Representational Gap]] | The irreducible distance between actuality and any rendering — the condition that makes contact, meaning, and love possible |
 
 ### Tag Pages
 
@@ -97,11 +98,11 @@ Four study aids in `_Meta/`:
 - **[Reading Paths](_Meta/Reading%20Paths.md)** — five curated, ordered routes with reading-time estimates
 - **[Glossary](_Meta/Glossary.md)** — the corpus's invented vocabulary A–Z, each term linked to its canonical treatment
 - **[Timeline](_Meta/Timeline.md)** — five phases of the corpus and when each framework emerged
-- **[Series](_Meta/Series.md)** — the six essay series (Fear of…, Illusion of…, High-End Relationship Skills, …) with members in order
+- **[Series](_Meta/Series.md)** — the seven essay series (Fear of…, Illusion of…, High-End Relationship Skills, …) with members in order
 
 ### Essays Database
 
-**[Essays.base](_Meta/Essays.base)** (open in Obsidian) gives sortable, filterable table views over all 176 essays: All Essays, Quick Reads (under 600 words), Long Reads (1500+), Series, and By Theme — driven entirely by frontmatter properties.
+**[Essays.base](_Meta/Essays.base)** (open in Obsidian) gives sortable, filterable table views over all 194 essays: All Essays, Quick Reads (under 600 words), Long Reads (1500+), Series, and By Theme — driven entirely by frontmatter properties.
 
 ### Obsidian Features
 
@@ -138,6 +139,6 @@ concepts:
 
 ## Source
 
-All essays are by **Justin Scott**, published at [cypherj.substack.com](https://cypherj.substack.com). This vault is a personal archive for reference and study. Content spans April 2025 through June 2026.
+All essays are by **Justin Scott**, published at [cypherj.substack.com](https://cypherj.substack.com). This vault is a personal archive for reference and study. Content spans April 2025 through July 2026.
 
 **About the author:** [Psychological Analysis of Justin Scott](_Meta/Psychological%20Analysis%20of%20Justin%20Scott.md) — an AI-written profile of the author derived from the corpus itself.

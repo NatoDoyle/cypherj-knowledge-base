@@ -14,6 +14,18 @@ The False Observer is Justin Scott's term for **the cognitive structure that eme
 
 ## Essays Referencing This Concept
 
+- [[2026-07-24_shes-irritated|She's "Irritated"]] — defending representations instead of returning to the experience — performing instead of encountering
+- [[2026-07-22_navigating-silence-in-relationships|Navigating Silence in Relationships]] — silence appoints a narrator — you respond to your replacement instead of the person
+- [[2026-07-18_the-knowledge-of-good-and-evil|The Knowledge of Good and Evil]] — the birth of the false observer — awareness watching itself until the self becomes an object to judge
+- [[2026-07-17_the-religion-of-english|The Religion of English]] — mistaking the inherited linguistic architecture for the world itself
+- [[2026-07-14_performative-emotional-intelligence|Performative Emotional Intelligence]] — replacing discovery with certainty — reaching your first inference and calling it understanding
+- [[2026-07-11_the-illusion-of-god|The Illusion of God]] — you meet the architecture you built from every previous meeting — talking to the tower, not the ground
+- [[2026-07-10_pretending-to-understand|Pretending to Understand]] — answering the version of you they already buried — certainty that stopped listening
+- [[2026-07-10_the-conversation-after-decenter-men|The Conversation after "Decenter Men"]] — living in reaction to categories instead of encountering the person
+- [[2026-07-01_we-should-break-up|"We Should Break Up?"]] — diagnoses and cultural scripts surround the relationship before anyone learns to see it
+- [[2026-06-22_the-representational-gap|The Representational Gap]] — the settled orientation away from the gap — representation relating to actuality on the aperture's behalf
+- [[2026-06-17_arguments-in-relationship|"Arguments" in Relationships]] — the person disappears and the explanation replaces them — talking to your theory of them
+- [[2026-06-12_why-long-distance-is-so-hard|Why "Long Distance" Is So Hard?]] — misrecognition — relating to your explanation of your partner as encounter declines
 - [[2026-06-08_stop-trying-to-understand-your-partner|Stop Trying To Understand Your Partner]] — partners trapped behind archived representations — relating to stories instead of each other
 - [[2026-06-06_conditional-manhood|Conditional Manhood]] — the observer moves inside; external policing becomes automatic self-surveillance
 - [[2026-06-06_the-fear-of-uncertainty|The Fear of Uncertainty]] — conducting investigations instead of participating; verdicts replacing lived experience
@@ -35,3 +47,4 @@ The False Observer is Justin Scott's term for **the cognitive structure that eme
 - [[Relational Architecture]] — inside love the observer turns intimacy into surveillance and openness into performance
 - [[Entropy]] — at civilizational scale the observer becomes the Hyper-Predatory Throughput Attractor
 - [[Proto-Fears]] — the authority transfer is driven by the fear of uncertainty and of being unseen
+- [[The Representational Gap]] — the False Observer is the settled orientation away from the gap; its most complete denial

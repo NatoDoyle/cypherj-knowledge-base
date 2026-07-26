@@ -1,7 +1,7 @@
 # Knowledge Base Index
 **Source:** Justin Scott — cypherj.substack.com
-**Total posts:** 176
-**Scraped on:** 2026-06-09
+**Total posts:** 194
+**Scraped on:** 2026-07-26
 **Start here:** [[Philosophy|Justin Scott's Philosophy: A Reader's Map]] · [[Reading Paths]]
 **Study:** [[Glossary]] · [[Timeline]] · [[Series]] · [[Essays.base|Essays database]]
 
@@ -9,6 +9,24 @@
 
 ## Posts
 
+- [She's "Irritated"](../Relationships/2026-07-24_shes-irritated.md) (2026-07-24)
+- [Navigating Silence in Relationships](../Relationships/2026-07-22_navigating-silence-in-relationships.md) (2026-07-22)
+- [The Knowledge of Good and Evil](../Spirituality/2026-07-18_the-knowledge-of-good-and-evil.md) (2026-07-18)
+- [The Religion of English](../Frameworks/2026-07-17_the-religion-of-english.md) (2026-07-17)
+- [Performative Emotional Intelligence](../Relationships/2026-07-14_performative-emotional-intelligence.md) (2026-07-14)
+- [The Illusion of God](../Spirituality/2026-07-11_the-illusion-of-god.md) (2026-07-11)
+- [Pretending to Understand](../Relationships/2026-07-10_pretending-to-understand.md) (2026-07-10)
+- [The Conversation after "Decenter Men"](../Psychology/2026-07-10_the-conversation-after-decenter-men.md) (2026-07-10)
+- [Messiah Objects](../Psychology/2026-07-07_messiah-objects.md) (2026-07-07)
+- ["We Should Break Up?"](../Relationships/2026-07-01_we-should-break-up.md) (2026-07-01)
+- [The Broken Woman](../Psychology/2026-06-28_the-broken-woman.md) (2026-06-28)
+- [Estranged Children](../Psychology/2026-06-26_estranged-children.md) (2026-06-26)
+- ["Compromise" Won't Save Your Relationship](../Relationships/2026-06-26_compromise-wont-save-your-relationship.md) (2026-06-26)
+- [The Representational Gap](../Frameworks/2026-06-22_the-representational-gap.md) (2026-06-22)
+- ["Arguments" in Relationships](../Relationships/2026-06-17_arguments-in-relationship.md) (2026-06-17)
+- [Desirability vs. Attraction](../Relationships/2026-06-16_desirability-vs-attraction.md) (2026-06-16)
+- ["Freedom From Emotion"](../Psychology/2026-06-12_freedom-from-emotion.md) (2026-06-12)
+- [Why "Long Distance" Is So Hard?](../Relationships/2026-06-12_why-long-distance-is-so-hard.md) (2026-06-12)
 - [Stop Trying To Understand Your Partner](../Relationships/2026-06-08_stop-trying-to-understand-your-partner.md) (2026-06-08)
 - [Conditional Manhood](../Psychology/2026-06-06_conditional-manhood.md) (2026-06-06)
 - [The Fear of Uncertainty](../Psychology/2026-06-06_the-fear-of-uncertainty.md) (2026-06-06)

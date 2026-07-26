@@ -14,6 +14,12 @@ Self-Erasure is Justin Scott's term for **the adaptive disappearance of identity
 
 ## Essays Referencing This Concept
 
+- [[2026-07-24_shes-irritated|She's "Irritated"]] — erasing yourself so only one person gets to be human at a time
+- [[2026-07-10_the-conversation-after-decenter-men|The Conversation after "Decenter Men"]] — freedom to love without disappearing into another person
+- [[2026-07-07_messiah-objects|Messiah Objects]] — 'I'll finally be allowed to live once...' — postponing existence until one object saves everything
+- [[2026-06-28_the-broken-woman|The Broken Woman]] — fragmentation and self-interruption — flinching before her own honesty before the world can
+- [[2026-06-26_estranged-children|Estranged Children]] — finding the child missing from their own memory; refusing to make existence conditional
+- [[2026-06-12_freedom-from-emotion|"Freedom From Emotion"]] — detachment as making yourself unreachable — attachment wearing the disguise of escape
 - [[2026-06-06_conditional-manhood|Conditional Manhood]] — identity as application awaiting approval — performance requiring maintenance
 - [[2026-06-02_the-bare-minimum-is-dead|The "Bare Minimum" Is Dead]] — performing recognizable love instead of being encountered
 - [[2026-05-20_trying-to-save-the-relationship|Trying to "Save" the Relationship]] — disappearing into performance while still together

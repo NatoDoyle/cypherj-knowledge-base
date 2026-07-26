@@ -9,8 +9,9 @@ tag: "femininity"
 
 For Justin Scott, femininity is not a trait but a structural position — the site where an emotionally illiterate world deposits its unpaid debts. His central argument is that women, and Black women in particular, were never "too emotional"; they were conscripted as the ledger-keepers for a society that refused to feel its own pain. In essays like "Women Are the Cost of Emotion" and "She Never Got to Unclench," he traces how women learn to pre-edit truth, apologize for accuracy, and mistake hypervigilance for identity. The "good woman" is not a compliment but a coffin — a silhouette men applaud for staying still, rewarding obedience rebranded as grace. Scott insists this is systemic, not personal: the silence, the sacrifice, and the performance of perfection are survival curricula imposed by scarcity, not character flaws. Healing, in his framework, is not becoming softer for the world but "unclenching" — reclaiming self-trust, refusing to carry what was never yours, and letting the performed woman die so the whole one can rise.
 
-## Essays (15)
+## Essays (16)
 
+- [[2026-06-28_the-broken-woman|The Broken Woman]] — Brokenness isn't collapse but fragmentation — the broken woman survives by adapting so successfully that the self stops living from one center, and the deepest wound is learning to interrupt her own honesty before the world can; she needs not someone to tear down her walls but accompaniment: presence that asks for nothing but the truth and stays when it arrives.
 - [[2026-04-13_women-are-confusing|Women Are "Confusing"]] — What men read as flirting is often women managing consequence; flirting from self differs cleanly from flirting from survival.
 - [[2026-04-09_the-performative-woman|The Performative Woman]] — Femininity became a social legibility gate; women carry a distortion field so the world can keep recognizing them without changing.
 - [[2026-03-07_male-centered-modesty|Male-Centered Modesty]] — Male-centered modesty forces both sexes to hide vitality around men's imagined reactions.
