@@ -4,7 +4,7 @@ type: index
 
 # Timeline
 
-How the corpus evolved, April 2025 through June 2026 — 176 essays in five phases. The frameworks did not arrive at once: the diagnostic vocabulary came first, the metaphysics second, and the unifying architecture last. Use this page to read any essay against the moment it was written, or follow [[Reading Paths|the Spine path]] to read the frameworks in dependency order.
+How the corpus evolved, April 2025 through July 2026 — 194 essays in five phases. The frameworks did not arrive at once: the diagnostic vocabulary came first, the metaphysics second, and the unifying architecture last. Use this page to read any essay against the moment it was written, or follow [[Reading Paths|the Spine path]] to read the frameworks in dependency order.
 
 ## Phases
 
@@ -24,9 +24,9 @@ The political essays sharpen into a sustained campaign — [[2025-09-09_ice-is-t
 
 [[2026-01-07_self-erasure|Self-Erasure]] (January 7) names what becomes the most-referenced concept in the corpus; one day later [[2026-01-08_am-i-and-i-am|Am I & I Am]] pivots the work from diagnosis toward presence. The Epstein cycle completes, the Insecure Man/Woman pair lands, [[2026-02-04_the-world-crisis|The World Crisis]] names the Hyper-Throughput Attractor, and [[2026-01-18_the-lie-of-consensus-reality|The Lie of Consensus Reality]] extends LIUT to its full length.
 
-### 5. The Convergence (March – June 2026 · 44 essays)
+### 5. The Convergence (March – July 2026 · 62 essays)
 
-The 2026 arc closes the system. The Illusion series completes, the Performative pair lands, and then in four weeks the unifying architecture arrives: [[2026-04-16_self-consciousness-the-mirror-system|The Mirror System]] (April 16), [[2026-04-21_the-relational-architecture|The Relational Architecture]] (April 21), [[2026-05-07_the-recognition-cascade|The Recognition Cascade]] (May 7, self-described "version 13"), and [[2026-05-11_the-false-observor|The False Observer]] (May 11). The [[2026-05-27_high-end-relationship-skills-non|High-End Relationship Skills]] practicum begins, the Fear series continues into June with [[2026-06-06_the-fear-of-uncertainty|Uncertainty]], and [[2026-06-06_conditional-manhood|Conditional Manhood]] applies the observer frame to masculinity.
+The 2026 arc closes the system. The Illusion series completes, the Performative pair lands, and then in four weeks the unifying architecture arrives: [[2026-04-16_self-consciousness-the-mirror-system|The Mirror System]] (April 16), [[2026-04-21_the-relational-architecture|The Relational Architecture]] (April 21), [[2026-05-07_the-recognition-cascade|The Recognition Cascade]] (May 7, self-described "version 13"), and [[2026-05-11_the-false-observor|The False Observer]] (May 11). The [[2026-05-27_high-end-relationship-skills-non|High-End Relationship Skills]] practicum begins, the Fear series continues into June with [[2026-06-06_the-fear-of-uncertainty|Uncertainty]], and [[2026-06-06_conditional-manhood|Conditional Manhood]] applies the observer frame to masculinity. Through June and July the practicum widens — [[2026-06-22_the-representational-gap|The Representational Gap]] formalizes the structure the False Observer exploits, [[2026-06-28_the-broken-woman|The Broken Woman]] completes the Broken pair, and the observer frame turns on scripture and language in [[2026-07-11_the-illusion-of-god|The Illusion of God]], [[2026-07-18_the-knowledge-of-good-and-evil|The Knowledge of Good and Evil]], and [[2026-07-17_the-religion-of-english|The Religion of English]], closing with the [[2026-07-24_shes-irritated|She's Irritated]] trilogy on accompaniment.
 
 ## Framework Emergence
 
@@ -62,4 +62,5 @@ The 2026 arc closes the system. The Illusion series completes, the Performative 
 | 2026-03 | 15 |
 | 2026-04 | 11 |
 | 2026-05 | 13 |
-| 2026-06 | 5 |
+| 2026-06 | 13 |
+| 2026-07 | 10 |

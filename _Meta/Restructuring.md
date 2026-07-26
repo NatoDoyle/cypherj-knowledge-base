@@ -15,6 +15,7 @@ Restructuring is Justin Scott's term for the **process of dismantling trauma-roo
 
 ## Essays Referencing This Concept
 
+- [[2026-06-28_the-broken-woman|The Broken Woman]] — not tearing down the adaptations that kept her alive, but being met until survival can stand down
 - [[2026-05-23_your-parents-didnt-date-under-these|Your Parents Didn’t Date Under These Conditions]] — modern intimacy demands capacity, which is developmental
 - [[2026-05-15_finding-your-soulmate|Finding Your Soulmate]] — using destiny to avoid developing relationship capacity
 - [[2026-05-10_what-is-a-healed-person|What Is A "Healed" Person?]] — healed = a life no longer organized around avoiding pain

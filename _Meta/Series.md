@@ -20,15 +20,16 @@ Essay series across the corpus. Membership is marked in each essay's `series` fr
 8. [[2026-05-27_the-fear-of-being-misunderstood|The Fear of Being Misunderstood]] (2026-05-27) — The fear of being misunderstood is a survival adaptation: you stop talking to the person and start talking to simulations of yourself in their head.
 9. [[2026-06-06_the-fear-of-uncertainty|The Fear of Uncertainty]] (2026-06-06) — The fear of uncertainty is really fear of what uncertainty feels like; chasing certainty turns experience into cruel verdicts — you were never supposed to be certain, you were supposed to be clear.
 
-## The Illusion of... (5 essays)
+## The Illusion of... (6 essays)
 
-*Dismantling the load-bearing illusions — romance, self-betrayal, options, the honeymoon, self-worth.*
+*Dismantling the load-bearing illusions — romance, self-betrayal, options, the honeymoon, self-worth, and God.*
 
 1. [[2025-08-29_the-illusion-of-romance|The Illusion of Romance]] (2025-08-29) — Romance is empire's costume for love; real love exists outside receipts and rituals.
 2. [[2025-11-30_the-illusion-of-self-betrayal|The Illusion of Self-Betrayal]] (2025-11-30) — Self-betrayal is an illusion; past trauma moves faster than present permission.
 3. [[2026-03-12_the-illusion-of-options|The Illusion of "Options"]] (2026-03-12) — Romantic 'options' are an illusion; real connection comes from rare recognition, not abundance.
 4. [[2026-03-27_the-illusion-of-the-honeymoon-phase|The Illusion of the Honeymoon Phase]] (2026-03-27) — The honeymoon phase is managed performance; unbuffered intimacy is what real love requires.
 5. [[2026-03-30_the-illusion-of-self-worth|The Illusion of "Self-Worth"]] (2026-03-30) — 'Self-worth' is self-surveillance rebranded; worth cannot be calculated because you are not a measurement.
+6. [[2026-07-11_the-illusion-of-god|The Illusion of God]] (2026-07-11) — Every sign becomes a tower; the accumulated doctrine and identity around the word 'God' ('Godden') gets mistaken for the ground it once pointed to.
 
 ## 7 O'Clock (2 essays)
 
@@ -57,3 +58,10 @@ Essay series across the corpus. Membership is marked in each essay's `series` fr
 
 1. [[2026-04-05_the-performative-man|The Performative Man]] (2026-04-05) — Even a man's refined goodness can be performance; you can't optimize your way out of authoring yourself in real time.
 2. [[2026-04-09_the-performative-woman|The Performative Woman]] (2026-04-09) — Femininity became a social legibility gate; women carry a distortion field so the world can keep recognizing them without changing.
+
+## The Broken Man/Woman (2 essays)
+
+*A paired anatomy of brokenness across genders — productive self-abandonment and quiet fragmentation.*
+
+1. [[2026-04-26_the-broken-man|The Broken Man]] (2026-04-26) — The broken man is productive self-abandonment: he outsources his unhealed boy to women until he learns to stay.
+2. [[2026-06-28_the-broken-woman|The Broken Woman]] (2026-06-28) — Brokenness is fragmentation: she survives by adapting so successfully that the self stops living from one center, and needs accompaniment, not rescue.

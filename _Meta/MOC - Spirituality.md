@@ -7,7 +7,7 @@ theme: "Spirituality"
 
 Essays on Christianity, theology, faith, biblical analysis, and the metaphysics of presence.
 
-**17 essays**
+**19 essays**
 
 ## Essays
 
@@ -27,6 +27,7 @@ Essays on Christianity, theology, faith, biblical analysis, and the metaphysics 
 
 *Trauma-projected gods and what worship becomes when it stops being avoidance.*
 
+- [[2026-07-11_the-illusion-of-god|The Illusion of God]] — The word 'God' is a sign pointing past itself, but every sign becomes a tower — compression on compression until people defend the accumulated doctrine and identity ('Godden') as if it were the ground it once pointed to; the illusion isn't God but that the tower became the ground, that fluency means contact and climbing means proximity — and the only question worth asking is whether the tower still holds a staircase back to encounter.
 - [[2025-12-09_belief-vs-faith-the-reality-of-dissociation|Belief vs. Faith: The Reality of Dissociation]] — Belief is dissociation disguised as devotion; faith is raw contact with present reality.
 - [[2025-08-18_afraid-of-heaven|Afraid of Heaven]] — Empire made you fear heaven so compliance would feel safer than belonging to God.
 - [[2025-07-01_youve-never-met-god-you-just-met|You've Never Met God. You Just Met A God-Shaped Cage]] — Institutional religion gave you a counterfeit God built on control, not presence.
@@ -38,6 +39,7 @@ Essays on Christianity, theology, faith, biblical analysis, and the metaphysics 
 
 *Hope, the split, and what it is all for.*
 
+- [[2026-07-18_the-knowledge-of-good-and-evil|The Knowledge of Good and Evil]] — 'Good' and 'evil' are verdicts spoken from an imaginary position outside a life you never left — goodness is a forecast disguised as a property, and both depend on the same impossible observer who believes it can see the whole. Reading Genesis as structural analysis, the knowledge of good and evil is the birth of the false observer: Adam stops participating and starts watching himself, his body becomes an object to hide and relation fractures into blame.
 - [[2026-05-17_the-point-of-life|The Point of Life]] — There's no point to life — you're a point in life; spectator mode and "the arrangement" turn ordinary existence into a trial you keep failing.
 - [[2026-05-14_the-spiritual-split|The Spiritual Split]] — The subject-object split: the False Observer converts existence into render management until even prayer becomes self-watching.
 - [[2026-02-13_what-hope-means|What "Hope" Means]] — Hope is not comfort but defiance: refusing to let fear author your blueprints.

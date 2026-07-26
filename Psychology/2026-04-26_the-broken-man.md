@@ -9,6 +9,7 @@ source: "https://cypherj.substack.com/p/the-broken-man"
 word_count: 918
 summary: "The broken man is productive self-abandonment: he outsources his unhealed boy to women until he learns to stay. Pain explains him; it does not absolve him."
 primary_theme: "Psychology"
+series: "The Broken Man/Woman"
 tags:
   - masculinity
   - trauma

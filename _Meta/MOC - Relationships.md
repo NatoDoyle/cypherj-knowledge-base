@@ -7,7 +7,7 @@ theme: "Relationships"
 
 Essays on dating, intimacy, love, romantic dynamics, and the trauma patterns that shape how we connect.
 
-**43 essays**
+**52 essays**
 
 ## Essays
 
@@ -15,6 +15,8 @@ Essays on dating, intimacy, love, romantic dynamics, and the trauma patterns tha
 
 *The field has changed — discourse, options, and incentives your parents never faced.*
 
+- [[2026-07-01_we-should-break-up|"We Should Break Up?"]] — Happy and miserable couples alike ask 'should I break up?' because the vocabulary has collapsed — harm, incompatibility, trauma, and outside 'sources' all get the same name; differentiation is what disappeared, and compatibility isn't the first diagnosis but the last, reached only by ruling everything else out.
+- [[2026-06-16_desirability-vs-attraction|Desirability vs. Attraction]] — People say 'I'm attractive' or 'high-value' as if these were facts about them, but desirability is a market position while attraction is an encounter that occurs inside the attracted — the core error is mistaking a market's preferences for a law of human nature, when real attraction is the moment a person stops being a category and becomes a person.
 - [[2026-06-02_the-bare-minimum-is-dead|The "Bare Minimum" Is Dead]] — The "bare minimum" discourse taught people to recognize performable love and outsource discernment; the real skill was always discernment.
 - [[2026-05-23_your-parents-didnt-date-under-these|Your Parents Didn’t Date Under These Conditions]] — Old dating scripts were built on vanished economic and social structures; modern dating demands capacity, not game, and people blame themselves for failing systems they were never built for.
 - [[2026-04-21_the-problem-with-relationship-titles|The Problem with "Relationship Titles"]] — A title becomes a third entity that keeps a relationship "alive" after contact dies; drop it and you finally see whether you're still being met.
@@ -42,6 +44,8 @@ Essays on dating, intimacy, love, romantic dynamics, and the trauma patterns tha
 
 *Strategies that kill the intimacy they're meant to protect.*
 
+- [[2026-07-14_performative-emotional-intelligence|Performative Emotional Intelligence]] — The easiest way to lie to someone you love is to pretend you've already understood them — 'I hear you,' 'I get it' — collapsing the burden of inferring another person into performed certainty; but their repeated attempts aren't repetition, they're asking whether it's safe to keep unfolding, and real emotional intelligence isn't knowing someone (that's telepathy) but admitting how little can be inferred.
+- [[2026-07-10_pretending-to-understand|Pretending to Understand]] — Being related to as a version of yourself you've already buried — the other person finishing your sentences, answering the you they already know — is one of the loneliest experiences, and its cost is teaching people that the truest parts of themselves survive better unspoken; real understanding stays curious, risks being wrong, and lets today interrupt yesterday.
 - [[2026-06-08_stop-trying-to-understand-your-partner|Stop Trying To Understand Your Partner]] — Believing you've figured your partner out replaces encounter with prediction — you become historians of archived versions; the goal of love is not to understand someone but to keep meeting them.
 - [[2026-05-20_trying-to-save-the-relationship|Trying to "Save" the Relationship]] — The horror of shifting from being in a relationship to performing emotional intelligence to save it — two nervous systems over-rendering until intimacy dies exhausted.
 - [[2026-02-26_relationship-management-kills-intimacy|Relationship Management Kills Intimacy]] — Over-managing communication erases authenticity and suffocates the intimacy it claims to protect.
@@ -68,6 +72,11 @@ Essays on dating, intimacy, love, romantic dynamics, and the trauma patterns tha
 
 *What actually works — safety, aftermath, co-regulation, and honest definitions.*
 
+- [[2026-07-24_shes-irritated|She's "Irritated"]] — A trilogy on inheriting a partner's emotions: the moment she's irritated, your attention leaves her experience for what it means about you — that's management, not love, and for many men it traces to a boy who learned a woman's emotional weather decided whether everything was okay and built love into a rescue mission. But you can't save anyone from being human; love was never the power to defeat suffering, only the refusal to let it be faced alone — so you stop being the answer and become the companion: a healthy nervous system nearby.
+- [[2026-07-22_navigating-silence-in-relationships|Navigating Silence in Relationships]] — Everyone teaches communication, but every relationship enters silence — and silence never stays silent; it appoints a narrator (fear, memory, old arguments) who speaks on your behalf. Punitive, regulating, permission, and exhausted silences look identical but tell different stories, and a relationship begins dying the moment silence appoints a narrator neither person chose — until couples speak again only to whoever survived the silence first.
+- [[2026-06-26_compromise-wont-save-your-relationship|"Compromise" Won't Save Your Relationship]] — Compromise is duct tape — fine for small logistics, dangerous when applied to structural fractures like broken trust or diverging futures, which propagate rather than negotiate; the higher virtue is discernment (is this to be negotiated or faced?), because reality isn't persuaded by negotiation and a relationship holds only when hard truths can be encountered without either person abandoning reality.
+- [[2026-06-17_arguments-in-relationship|"Arguments" in Relationships]] — 'Couples fight' collapses very different conflicts into one category; most arguments aren't about their stated subject but about conditions being protected, decades-old conclusions, and requests in disguise — so the goal isn't winning or compromise (which asks whose reality loses) but simultaneity and encounter: asking what the other person is carrying.
+- [[2026-06-12_why-long-distance-is-so-hard|Why "Long Distance" Is So Hard?]] — Long distance doesn't fail because of distance but because of replacement — as encounter declines the mind fills the vacancies with implication, access masquerades as presence, and description replaces play; the longing isn't failure but love meeting distance, and the real work is protecting encounter.
 - [[2026-06-02_high-end-relationship-skills-co-regulation|High-End Relationship Skills: Co-Regulation]] — Most people respond to what they think distress means, not the distress; co-regulation is staying present until the other person feels encountered — people calm down because they stop feeling alone with the question.
 - [[2026-05-27_high-end-relationship-skills-non|High-End Relationship Skills: Non-Competing Truths]] — The elite skill is differentiation: letting non-competing truths coexist ("my intent was loving" and "the impact hurt") without collapsing the relationship into implication panic.
 - [[2026-03-29_what-is-cheating-and-no-it-doesnt|What is "Cheating?" & No It Doesn't Start With Sex]] — Cheating begins when someone stays past their truth, not when they touch someone else.

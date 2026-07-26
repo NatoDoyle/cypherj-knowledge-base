@@ -14,6 +14,18 @@ The Relational Architecture is Justin Scott's **complete structural account of w
 
 ## Essays Referencing This Concept
 
+- [[2026-07-24_shes-irritated|She's "Irritated"]] — accompaniment over management — a healthy nervous system nearby, not a rescue
+- [[2026-07-22_navigating-silence-in-relationships|Navigating Silence in Relationships]] — returning before memory finishes introducing you to each other
+- [[2026-07-14_performative-emotional-intelligence|Performative Emotional Intelligence]] — understanding emerges between two people — it can't be manufactured or performed
+- [[2026-07-10_pretending-to-understand|Pretending to Understand]] — if you've already decided who I am you can't meet who I'm becoming
+- [[2026-07-07_messiah-objects|Messiah Objects]] — encounter collapses into objectification when one thing is demanded to save everything
+- [[2026-07-01_we-should-break-up|"We Should Break Up?"]] — compatibility as the last diagnosis — differentiating the relationship's reality from the sources
+- [[2026-06-26_estranged-children|Estranged Children]] — a relationship requires two people while understanding requires one — management can outlive relationship
+- [[2026-06-26_compromise-wont-save-your-relationship|"Compromise" Won't Save Your Relationship]] — reality isn't persuaded by negotiation — hard truths encountered without either person abandoning reality
+- [[2026-06-22_the-representational-gap|The Representational Gap]] — the gap is what keeps the other person genuinely other rather than a managed model
+- [[2026-06-17_arguments-in-relationship|"Arguments" in Relationships]] — simultaneity over compromise — keeping both realities alive instead of asking whose reality loses
+- [[2026-06-16_desirability-vs-attraction|Desirability vs. Attraction]] — attraction is an encounter, not a market position — the moment a category becomes a person
+- [[2026-06-12_why-long-distance-is-so-hard|Why "Long Distance" Is So Hard?]] — protecting encounter in an environment that continuously replaces it
 - [[2026-06-08_stop-trying-to-understand-your-partner|Stop Trying To Understand Your Partner]] — encounter over communication — love as continuous meeting, not archived understanding
 - [[2026-06-02_high-end-relationship-skills-co-regulation|High-End Relationship Skills: Co-Regulation]] — accompaniment as orientation in the blizzard; staying until the other feels encountered
 - [[2026-05-27_high-end-relationship-skills-non|High-End Relationship Skills: Non-Competing Truths]] — differentiation and capacity: holding competing truths inside an open system
@@ -27,3 +39,4 @@ The Relational Architecture is Justin Scott's **complete structural account of w
 - [[The False Observer]] — managed openness and relational performance are the observer operating inside love
 - [[Self-Erasure]] — closure and collapse are where one partner disappears to keep the system stable
 - [[Restructuring]] — capacity is developmental; the basin expands only as truth becomes survivable
+- [[The Representational Gap]] — the gap between two apertures is what keeps the other person genuinely other

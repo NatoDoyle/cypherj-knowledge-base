@@ -6,7 +6,7 @@ type: synthesis
 
 ## What This Is
 
-This file is a synthesis of the 176 essays collected in this vault, compressed into a single worldview. It is not a substitute for the essays — Scott's argument is most alive in the specific cases he writes into. It is a reader's map: a way to see how the concepts link, where to start, and what the work is ultimately asking of the reader. For the defining treatment of any single idea, follow the wikilinks into the concept pages. For thematic depth, use the MOCs in this folder.
+This file is a synthesis of the 194 essays collected in this vault, compressed into a single worldview. It is not a substitute for the essays — Scott's argument is most alive in the specific cases he writes into. It is a reader's map: a way to see how the concepts link, where to start, and what the work is ultimately asking of the reader. For the defining treatment of any single idea, follow the wikilinks into the concept pages. For thematic depth, use the MOCs in this folder.
 
 ## Core Thesis
 
@@ -86,7 +86,7 @@ If you read nothing else, read these as entry points:
 - [[2026-01-08_am-i-and-i-am|Am I & I Am]] — the pivot into presence
 - [[2025-06-07_she-never-got-to-unclench|She Never Got to Unclench]] — the practice in its sharpest form
 
-The ten concept pages — [[Entropy]], [[Proto-Fears]], [[Parallel Systems]], [[Light-Identity Unified Theory]], [[Narrative Warfare]], [[Restructuring]], [[Self-Erasure]], [[The False Observer]], [[Recognition Cascade]], [[Relational Architecture]] — give the canonical treatment of each idea, with every referencing essay linked in reverse-chronological order.
+The eleven concept pages — [[Entropy]], [[Proto-Fears]], [[Parallel Systems]], [[Light-Identity Unified Theory]], [[Narrative Warfare]], [[Restructuring]], [[Self-Erasure]], [[The False Observer]], [[Recognition Cascade]], [[Relational Architecture]], [[The Representational Gap]] — give the canonical treatment of each idea, with every referencing essay linked in reverse-chronological order.
 
 The six MOCs — [[MOC - Psychology]], [[MOC - Relationships]], [[MOC - Politics]], [[MOC - Spirituality]], [[MOC - Frameworks]], [[MOC - Race & Culture]] — organize the corpus by theme, each clustered into sub-themes. Start wherever the wound is closest.
 
